@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Review Analyzer</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet"> <!-- Modern Font -->
+</head>
+<body>
+    <div class="container">
+        <h1>Product Review Analyzer</h1>
+        <div class="input-group">
+            <input type="text" id="product-name" placeholder="Enter product name" />
+            <button onclick="analyzeReview()">Analyze</button>
+        </div>
+        <div id="loading">Analyzing, please wait...</div>
+        <div id="result-container">
+            <div id="result"></div>
+            <div id="rating"></div> <!-- Added for displaying product rating -->
+        </div>
+    </div>
+
+    <script>
+        // Function to analyze the review
+        function analyzeReview() {
+            document.getElementById('loading').style.display = 'block'; // Show loading spinner
+            const productName = document.getElementById('product-name').value;
+            
+            fetch('/analyze', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ product_name: productName }),
+            })
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error("Network response was not ok: " + response.statusText);
+                }
+                return response.json();
+            })
+            .then(data => {
+                document.getElementById('loading').style.display = 'none'; // Hide loading spinner
+                if (data.sentiment_message) {
+                    const resultDiv = document.getElementById('result');
+                    resultDiv.innerText = data.sentiment_message;
+                    
+                    // Add class based on sentiment
+                    if (data.sentiment_message.includes('good')) {
+                        resultDiv.className = 'good';
+                    } else if (data.sentiment_message.includes('bad')) {
+                        resultDiv.className = 'bad';
+                    } else {
+                        resultDiv.className = 'average';
+                    }
+                } else {
+                    document.getElementById('result').innerText = "Error: Sentiment data is missing.";
+                }
+
+                // Display product rating
+                const ratingDiv = document.getElementById('rating');
+                if (data.rating && data.rating !== "No rating available") {
+                    ratingDiv.innerText = `Product Rating: ${data.rating}/5`; // Show rating if available
+                } else {
+                    ratingDiv.innerText = "Product Rating: No rating available"; // Handle missing rating
+                }
+            })
+            .catch(error => {
+                document.getElementById('loading').style.display = 'none'; // Hide loading spinner
+                document.getElementById('result').innerText = `Error: ${error.message}`;
+            });
+        }
+
+        // Add event listener for "Enter" key to trigger analyzeReview()
+        document.getElementById('product-name').addEventListener('keypress', function (event) {
+            if (event.key === 'Enter') {
+                analyzeReview();
+            }
+        });
+    </script>
+</body>
+</html>

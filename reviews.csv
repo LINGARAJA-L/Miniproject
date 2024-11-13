@@ -1,0 +1,1001 @@
+product,review,audio_files,rating,review_date,reviewer_name,purchase_location
+Samsung Galaxy S24,"Incredible performance and a stunning display, making it a top choice for flagship users.",audio_files/Samsung Galaxy S24.mp3,5,2024-11-01,John Smith,Online
+Samsung Galaxy S23 Ultra,Outstanding performance with the best camera quality on the market.,audio_files/Samsung Galaxy S23 Ultra.mp3,5,2024-01-01,John Doe,Online
+Samsung Galaxy S23,"Incredible display and speed, but battery life could be better.",audio_files/Samsung Galaxy S23.mp3,4,2024-01-05,Jane Smith,In-store
+Samsung Galaxy S22,"Great phone overall, but it's a bit expensive for what you get.",audio_files/Samsung Galaxy S22.mp3,3,2024-01-10,Emily Johnson,Online
+Samsung Galaxy S21,Impressive camera and performance but a bit too pricey.,audio_files/Samsung Galaxy S21.mp3,3,2024-01-15,Mike Brown,App
+Samsung Galaxy S20,"Great features, but it's starting to show its age compared to newer models.",audio_files/Samsung Galaxy S20.mp3,4,2024-01-20,Sarah Davis,In-store
+Samsung Galaxy S20 FE,"Fantastic value for the price, but battery life could be better.",audio_files/Samsung Galaxy S20 FE.mp3,4,2024-01-25,David Wilson,Online
+Samsung Galaxy S21 FE,"Good value for money with solid performance, but the camera is average.",audio_files/Samsung Galaxy S21 FE.mp3,3,2024-01-30,Linda Martinez,App
+Samsung Galaxy S19 Ultra,"Exceptional camera quality and performance, but very expensive.",audio_files/Samsung Galaxy S19 Ultra.mp3,3,2024-02-02,Chris Garcia,Online
+Samsung Galaxy S22 Plus,"Solid phone with great performance, but the design feels outdated.",audio_files/Samsung Galaxy S22 Plus.mp3,4,2024-02-05,Alice Lee,In-store
+Samsung Galaxy S10,A solid phone with a great camera but is now a bit outdated.,audio_files/Samsung Galaxy S10.mp3,4,2024-02-10,Kevin Thomas,Online
+Samsung Galaxy Note 20,"Excellent for productivity, but the price is hard to justify.",audio_files/Samsung Galaxy Note 20.mp3,3,2024-02-15,Nora White,In-store
+Samsung Galaxy Note 20 Ultra,"Great performance and features, but heavy and expensive.",audio_files/Samsung Galaxy Note 20 Ultra.mp3,4,2024-02-20,Joshua Harris,App
+Samsung Galaxy Note 10,"Impressive display and functionality, but the battery life could be better.",audio_files/Samsung Galaxy Note 10.mp3,4,2024-02-25,Amy Davis,Online
+Samsung Galaxy Note 10+,"Excellent performance, but it's quite large and not easy to handle.",audio_files/Samsung Galaxy Note 10+.mp3,3,2024-03-01,Michael Johnson,In-store
+Samsung Galaxy A72,"Good battery life and performance, but software could use improvement.",audio_files/Samsung Galaxy A72.mp3,4,2024-03-05,Jessica Wilson,Online
+Samsung Galaxy A53,"The camera is decent, but the design feels a bit cheap.",audio_files/Samsung Galaxy A53.mp3,3,2024-03-10,James Taylor,App
+Samsung Galaxy A52,"Good for everyday use, but lags with heavy apps.",audio_files/Samsung Galaxy A52.mp3,3,2024-03-15,Mary Brown,Online
+Samsung Galaxy A32,Affordable but not very powerful; suitable for light users.,audio_files/Samsung Galaxy A32.mp3,2,2024-03-20,Linda White,In-store
+Samsung Galaxy A12,"Budget-friendly, but the performance is lacking.",audio_files/Samsung Galaxy A12.mp3,2,2024-03-25,Robert Harris,App
+Samsung Galaxy A22,"Good features for the price, but the camera is disappointing.",audio_files/Samsung Galaxy A22.mp3,2,2024-03-30,Emma Clark,In-store
+Samsung Galaxy Z Fold 4,Innovative design but very heavy and pricey.,audio_files/Samsung Galaxy Z Fold 4.mp3,3,2024-04-01,Alice Davis,Online
+Samsung Galaxy Z Flip 3,"Unique folding design and good performance, but battery life isn't great.",audio_files/Samsung Galaxy Z Flip 3.mp3,1,2024-04-05,John White,App
+Samsung Galaxy Z Flip 4,"Fantastic design, but the battery life is just average.",audio_files/Samsung Galaxy Z Flip 4.mp3,2,2024-04-10,Chris Brown,Online
+Samsung Galaxy Z Fold 3,"Amazing multitasking capabilities, but heavy and very expensive.",audio_files/Samsung Galaxy Z Fold 3.mp3,4,2024-04-15,Linda Green,In-store
+Samsung Galaxy M32,"Great battery life for the price, but the camera is average.",audio_files/Samsung Galaxy M32.mp3,2,2024-04-20,Alice Martin,App
+Samsung Galaxy M12,"Affordable and reliable, but lacks advanced features.",audio_files/Samsung Galaxy M12.mp3,2,2024-04-25,Brian White,Online
+Samsung Galaxy M62,"Good performance, but the design feels outdated.",audio_files/Samsung Galaxy M62.mp3,2,2024-04-30,Jessica Moore,In-store
+Samsung Galaxy M52,"Nice display and decent performance, but camera quality is average.",audio_files/Samsung Galaxy M52.mp3,2,2024-05-05,Karen Taylor,Online
+Samsung Galaxy M32 5G,"Good value for the price, but not suitable for heavy gaming.",audio_files/Samsung Galaxy M32 5G.mp3,3,2024-05-10,David Harris,App
+Samsung Galaxy J7,"Good for basic tasks, but not suitable for heavy users.",audio_files/Samsung Galaxy J7.mp3,3,2024-05-15,Sarah Wilson,In-store
+Samsung Galaxy J5,"Budget device that does its job, but performance is limited.",audio_files/Samsung Galaxy J5.mp3,3,2024-05-20,Mike Lee,Online
+Samsung Galaxy J6,Affordable smartphone with decent performance.,audio_files/Samsung Galaxy J6.mp3,4,2024-05-25,Emily Johnson,App
+Samsung Galaxy J8,Good battery life but average camera performance.,audio_files/Samsung Galaxy J8.mp3,3,2024-05-30,Mark Brown,In-store
+Samsung Galaxy A03,"Budget device that does its job, but don’t expect high performance.",audio_files/Samsung Galaxy A03.mp3,3,2024-06-01,Linda Wilson,Online
+Samsung Galaxy A04,Entry-level phone suitable for basic tasks.,audio_files/Samsung Galaxy A04.mp3,3,2024-06-05,Jessica Martin,App
+Samsung Galaxy S8,"Old but still a good phone, especially for light users.",audio_files/Samsung Galaxy S8.mp3,4,2024-06-10,Robert Johnson,In-store
+Samsung Galaxy S9,"Great design and camera, but battery life is subpar.",audio_files/Samsung Galaxy S9.mp3,2,2024-06-15,Alice Davis,Online
+Samsung Galaxy S10e,"Compact design with solid performance, but camera could be better.",audio_files/Samsung Galaxy S10e.mp3,4,2024-06-20,Kevin Smith,App
+Samsung Galaxy A50,Good performance and features for the price.,audio_files/Samsung Galaxy A50.mp3,4,2024-06-25,Emily White,In-store
+Samsung Galaxy A70,Decent performance but heavy for daily use.,audio_files/Samsung Galaxy A70.mp3,3,2024-06-30,Chris Taylor,Online
+Samsung Galaxy M51,Impressive battery life and decent performance.,audio_files/Samsung Galaxy M51.mp3,4,2024-07-01,Nora Brown,App
+Samsung Galaxy A90,Premium features but at a budget price.,audio_files/Samsung Galaxy A90.mp3,3,2024-07-05,Sarah Garcia,In-store
+Samsung Galaxy M11,"Basic features, good for simple tasks.",audio_files/Samsung Galaxy M11.mp3,4,2024-07-10,David Johnson,Online
+iPhone 15,The iPhone 15 has a fantastic design and an amazing camera.,audio_files/iPhone 15.mp3,5,2024-10-01,John Doe,Online
+iPhone 15 Pro,"Incredible performance with the new A16 chip, highly recommend.",audio_files/iPhone 15 Pro.mp3,5,2024-10-05,Jane Smith,In-store
+iPhone 15 Pro Max,The best iPhone yet with outstanding battery life and camera.,audio_files/iPhone 15 Pro Max.mp3,5,2024-10-10,Emily Johnson,Online
+iPhone 15 Plus,Great battery life but feels a bit heavy for some users.,audio_files/iPhone 15 Plus.mp3,3,2024-10-15,Michael Brown,App
+iPhone 15 Mini,"Perfect size for one-handed use, but battery life is average.",audio_files/iPhone 15 Mini.mp3,3,2024-10-20,Sarah Davis,In-store
+iPhone 15 SE,"Budget-friendly with decent features, but lacks advanced camera options.",audio_files/iPhone 15 SE.mp3,3,2024-10-25,David Wilson,Online
+iPhone 16,"Excellent performance and battery life, a solid upgrade from the iPhone 15.",audio_files/iPhone 16.mp3,5,2024-11-01,Linda Martinez,Online
+iPhone 16 Pro,"Amazing camera capabilities, perfect for photography enthusiasts.",audio_files/iPhone 16 Pro.mp3,5,2024-11-05,Chris Garcia,In-store
+iPhone 16 Pro Max,"Best iPhone for multitasking, huge battery and storage options.",audio_files/iPhone 16 Pro Max.mp3,5,2024-11-10,Alice Lee,Online
+iPhone 16 Plus,"Good performance, but lacks some features of the Pro models.",audio_files/iPhone 16 Plus.mp3,3,2024-11-15,Kevin Thomas,App
+iPhone 16 Mini,"Great for portability, but battery life could be improved.",audio_files/iPhone 16 Mini.mp3,4,2024-11-20,Nora White,In-store
+iPhone 16 SE,Affordable option but lacks features found in higher models.,audio_files/iPhone 16 SE.mp3,3,2024-11-25,Joshua Harris,Online
+iPhone 14 Pro Max,"Amazing camera quality and battery life, definitely worth the price.",audio_files/iPhone 14 Pro Max.mp3,5,2024-01-01,John Doe,Online
+iPhone 14,"Excellent performance, but it's expensive.",audio_files/iPhone 14.mp3,3,2024-01-05,Jane Smith,In-store
+iPhone 14 Plus,"Great display, but the price is steep for the features.",audio_files/iPhone 14 Plus.mp3,4,2024-01-08,Emily Johnson,Online
+iPhone 13 Pro,"Good phone overall, but the battery life is not the best.",audio_files/iPhone 13 Pro.mp3,2,2024-01-10,Mike Brown,App
+iPhone 13,"Great performance for the price, but lacks some premium features.",audio_files/iPhone 13.mp3,3,2024-01-15,Sarah Davis,In-store
+iPhone 13 Mini,"Compact and easy to use, but battery drains quickly.",audio_files/iPhone 13 Mini.mp3,3,2024-01-20,David Wilson,Online
+iPhone 12 Pro Max,"Amazing features, but too bulky for everyday use.",audio_files/iPhone 12 Pro Max.mp3,4,2024-01-25,Linda Martinez,App
+iPhone 12 Pro,"Good performance, but not much of an upgrade from the iPhone 11.",audio_files/iPhone 12 Pro.mp3,4,2024-01-30,Chris Garcia,Online
+iPhone 12,"Solid phone, but starting to feel a bit outdated.",audio_files/iPhone 12.mp3,3,2024-02-02,Alice Lee,In-store
+iPhone 12 Mini,"Very portable, but performance lags behind other models.",audio_files/iPhone 12 Mini.mp3,2,2024-02-05,Kevin Thomas,Online
+iPhone 11 Pro Max,"Still holds up well, but the battery doesn't last as long.",audio_files/iPhone 11 Pro Max.mp3,4,2024-02-10,Nora White,In-store
+iPhone 11 Pro,"Great performance, but the camera isn't as good as the newer models.",audio_files/iPhone 11 Pro.mp3,2,2024-02-15,Joshua Harris,App
+iPhone 11,"Great phone for everyday use, but it heats up during heavy tasks.",audio_files/iPhone 11.mp3,3,2024-02-20,Amy Davis,Online
+iPhone XR,"Good value for money, but the camera is not great.",audio_files/iPhone XR.mp3,3,2024-02-25,Michael Johnson,In-store
+iPhone XS Max,"Amazing display, but battery life is disappointing.",audio_files/iPhone XS Max.mp3,2,2024-03-01,Jessica Wilson,Online
+iPhone XS,"Good performance, but the design feels dated.",audio_files/iPhone XS.mp3,3,2024-03-05,John Taylor,Online
+iPhone X,"Innovative for its time, but now lacking in features compared to newer models.",audio_files/iPhone X.mp3,2,2024-03-10,Chris Brown,In-store
+iPhone 8 Plus,"Good performance, but definitely showing its age now.",audio_files/iPhone 8 Plus.mp3,3,2024-03-15,Linda Green,App
+iPhone 8,"A decent phone, but the battery drains quickly.",audio_files/iPhone 8.mp3,2,2024-03-20,Alice Martin,In-store
+iPhone 7 Plus,"Great performance for its time, but now outdated.",audio_files/iPhone 7 Plus.mp3,4,2024-03-25,Brian White,Online
+iPhone 7,"Small screen and low battery life, but affordable.",audio_files/iPhone 7.mp3,3,2024-03-30,Jessica Moore,App
+iPhone SE (2022),"Affordable, but performance is lacking compared to higher-end models.",audio_files/iPhone SE (2022).mp3,2,2024-04-01,Karen Taylor,Online
+iPhone SE (2020),"Good value for money, but small screen and average camera.",audio_files/iPhone SE (2020).mp3,3,2024-04-05,David Harris,App
+iPhone 6S Plus,"Great value, but it's starting to feel outdated.",audio_files/iPhone 6S Plus.mp3,2,2024-04-10,Sarah Wilson,In-store
+iPhone 6S,"Good for basic tasks, but struggles with modern apps.",audio_files/iPhone 6S.mp3,3,2024-04-15,Mike Lee,Online
+iPhone 6 Plus,"Large screen, but battery life is very poor.",audio_files/iPhone 6 Plus.mp3,2,2024-04-20,Emily Johnson,App
+iPhone 6,"Affordable, but not powerful enough for most users today.",audio_files/iPhone 6.mp3,2,2024-04-25,Mark Brown,In-store
+iPhone 5S,"A classic model, but far too slow for today's apps.",audio_files/iPhone 5S.mp3,1,2024-04-30,Emma Clark,Online
+iPhone 5,"Great design, but long outdated.",audio_files/iPhone 5.mp3,3,2024-05-01,Alice Davis,App
+iPhone 4S,"Tiny screen and poor battery life, but a nostalgia trip for many.",audio_files/iPhone 4S.mp3,3,2024-05-05,John White,Online
+iPhone 4,"Innovative when it launched, but nearly unusable by today's standards.",audio_files/iPhone 4.mp3,1,2024-05-10,Chris Brown,App
+iPhone 3GS,"Fun to look back on, but not functional in the modern world.",audio_files/iPhone 3GS.mp3,3,2024-05-15,Linda Green,In-store
+iPhone 12 Pro Max 1,"Great build quality and camera performance, but quite bulky.",audio_files/iPhone 12 Pro Max 1.mp3,4,2024-05-20,John Taylor,Online
+iPhone 13 Pro Max,"Fantastic display and performance, but very expensive.",audio_files/iPhone 13 Pro Max.mp3,5,2024-05-25,Chris Garcia,In-store
+iPhone 14 Pro,"Amazing screen and camera performance, worth the upgrade.",audio_files/iPhone 14 Pro.mp3,5,2024-06-01,Alice Johnson,App
+iPhone 12 (2020),"Good phone overall, but not as exciting as newer models.",audio_files/iPhone 12 (2020).mp3,3,2024-06-05,David White,Online
+iPhone XR (2020),"Great price and performance, but the camera could be better.",audio_files/iPhone XR (2020).mp3,4,2024-06-10,Michael Harris,In-store
+iPhone XS (2020),"Still a great phone, but feels slow compared to the iPhone 14.",audio_files/iPhone XS (2020).mp3,3,2024-06-15,Sarah Brown,App
+iPhone 7 Plus (2015),"Still decent for basic tasks, but battery drains quickly.",audio_files/iPhone 7 Plus (2015).mp3,4,2024-06-20,Karen White,Online
+iPhone 7 (2015),"Old but reliable, however, the battery life is lacking.",audio_files/iPhone 7 (2015).mp3,3,2024-06-25,Mike Green,In-store
+iPhone SE (2021),Affordable but lacks premium features.,audio_files/iPhone SE (2021).mp3,3,2024-06-30,Alice Harris,Online
+iPhone 6 (2013),"Definitely showing its age, not recommended for new buyers.",audio_files/iPhone 6 (2013).mp3,3,2024-07-01,John Moore,App
+iPhone 6S (2013),"Affordable but outdated, with battery issues.",audio_files/iPhone 6S (2013).mp3,3,2024-07-05,Chris Taylor,Online
+iPhone 5 (2013),"A nostalgia piece, but not practical in 2024.",audio_files/iPhone 5 (2013).mp3,3,2024-07-10,Jessica Wilson,In-store
+iPhone 4S (2013),"Iconic design, but way too slow for modern apps.",audio_files/iPhone 4S (2013).mp3,3,2024-07-15,Linda Garcia,App
+OnePlus 12R,"The design is modern, and the performance is excellent.",audio_files/OnePlus 12R.mp3,4,2023-01-08,User_2,In-store
+OnePlus 12,"Battery life is outstanding, and it is very good i like it very much",audio_files/OnePlus 12.mp3,5,2023-01-15,User_3,Online
+OnePlus 11,"Battery life is fantastic, but the camera quality is lacking.",audio_files/OnePlus 11.mp3,3,2024-01-01,John Doe,Online
+OnePlus 11 Pro,"Excellent performance and amazing display, highly recommend!",audio_files/OnePlus 11 Pro.mp3,5,2024-01-05,Jane Smith,In-store
+OnePlus 11R,"Good battery life, but the camera could be better.",audio_files/OnePlus 11R.mp3,4,2024-01-10,Emily Johnson,Online
+OnePlus 10,"Great value for money, but it's a bit bulky.",audio_files/OnePlus 10.mp3,4,2024-01-15,Michael Brown,App
+OnePlus 10 Pro,Impressive camera features but battery life needs improvement.,audio_files/OnePlus 10 Pro.mp3,4,2024-01-20,Sarah Davis,Online
+OnePlus 10T,"Solid performance and fast charging, but not much innovation.",audio_files/OnePlus 10T.mp3,3,2024-01-25,David Wilson,In-store
+OnePlus 9,Good overall performance but lacks in low-light photography.,audio_files/OnePlus 9.mp3,3,2024-01-30,Linda Martinez,App
+OnePlus 9 Pro,Excellent display and performance but quite expensive.,audio_files/OnePlus 9 Pro.mp3,5,2024-02-02,Chris Garcia,Online
+OnePlus 9R,"Good for everyday use, but the camera is average.",audio_files/OnePlus 9R.mp3,2,2024-02-05,Alice Lee,In-store
+OnePlus Nord 2,Great mid-range phone with solid features.,audio_files/OnePlus Nord 2.mp3,4,2024-02-10,Kevin Thomas,Online
+OnePlus Nord CE,"Budget-friendly with decent performance, but camera quality is average.",audio_files/OnePlus Nord CE.mp3,2,2024-02-15,Nora White,In-store
+OnePlus Nord N200,Good entry-level phone but performance lags with heavy apps.,audio_files/OnePlus Nord N200.mp3,2,2024-02-20,Joshua Harris,App
+OnePlus 8T,"Fast charging and good display, but battery life could be better.",audio_files/OnePlus 8T.mp3,4,2024-02-25,Amy Davis,Online
+OnePlus 8,Great performance but feels outdated compared to newer models.,audio_files/OnePlus 8.mp3,3,2024-03-01,Michael Johnson,In-store
+OnePlus 8 Pro,Impressive camera but very heavy.,audio_files/OnePlus 8 Pro.mp3,4,2024-03-05,Jessica Wilson,App
+OnePlus 7T,"Still a solid phone, but newer models are better.",audio_files/OnePlus 7T.mp3,4,2024-03-10,James Taylor,Online
+OnePlus 7 Pro,Fantastic display and performance but battery could last longer.,audio_files/OnePlus 7 Pro.mp3,4,2024-03-15,Emily White,In-store
+OnePlus 7,"Good phone overall, but lacks features of newer models.",audio_files/OnePlus 7.mp3,3,2024-03-20,Chris Brown,App
+OnePlus 6T,Still performs well but showing its age.,audio_files/OnePlus 6T.mp3,4,2024-03-25,Linda Green,Online
+OnePlus 6,"Good value, but lacks camera improvements.",audio_files/OnePlus 6.mp3,3,2024-03-30,Robert Harris,In-store
+OnePlus 5T,"Great performance for the price, but software feels outdated.",audio_files/OnePlus 5T.mp3,3,2024-04-01,Alice Davis,App
+OnePlus 5,"Still a decent phone, but many better options are available now.",audio_files/OnePlus 5.mp3,4,2024-04-05,John White,Online
+OnePlus 3T,Good for basic tasks but lacks modern features.,audio_files/OnePlus 3T.mp3,2,2024-04-10,Chris Garcia,In-store
+OnePlus 3,Decent phone but very old and slow for modern apps.,audio_files/OnePlus 3.mp3,1,2024-04-15,Sarah Wilson,App
+OnePlus X,"Good budget option, but lacks performance.",audio_files/OnePlus X.mp3,2,2024-04-20,Kevin Smith,Online
+OnePlus 2,Old phone with poor software support.,audio_files/OnePlus 2.mp3,1,2024-04-25,Jessica Martin,In-store
+OnePlus One,Nostalgic but not practical for 2024.,audio_files/OnePlus One.mp3,1,2024-04-30,Robert Johnson,App
+OnePlus Nord CE 2,Good mid-range phone but battery life could improve.,audio_files/OnePlus Nord CE 2.mp3,4,2024-05-01,Nora Brown,Online
+OnePlus Nord CE 3,Decent performance for the price but camera needs work.,audio_files/OnePlus Nord CE 3.mp3,3,2024-05-05,Alice Green,App
+OnePlus Nord N20,Budget phone that handles basic tasks well.,audio_files/OnePlus Nord N20.mp3,4,2024-05-10,Linda White,In-store
+OnePlus Nord N30,Good features for the price but performance is lacking.,audio_files/OnePlus Nord N30.mp3,2,2024-05-15,Mike Lee,Online
+OnePlus 9RT,Good performance and display but battery life is average.,audio_files/OnePlus 9RT.mp3,3,2024-05-20,Chris Johnson,App
+OnePlus 10 Pro 5G,"Great camera and performance, but pricey.",audio_files/OnePlus 10 Pro 5G.mp3,5,2024-05-25,Sarah Davis,In-store
+OnePlus 9 Pro 5G,Impressive specs but expensive.,audio_files/OnePlus 9 Pro 5G.mp3,3,2024-06-01,Michael Harris,Online
+OnePlus 8 Pro 5G,Good features but battery could be better.,audio_files/OnePlus 8 Pro 5G.mp3,4,2024-06-05,Alice Johnson,App
+OnePlus 7T Pro,Great phone but a bit heavy.,audio_files/OnePlus 7T Pro.mp3,4,2024-06-10,John Doe,In-store
+OnePlus 7 Pro 5G,Solid performance but overpriced.,audio_files/OnePlus 7 Pro 5G.mp3,3,2024-06-15,Emily Johnson,Online
+OnePlus 6T McLaren,Stylish design but software support is lacking.,audio_files/OnePlus 6T McLaren.mp3,2,2024-06-20,David Wilson,App
+OnePlus 8T Cyberpunk,Unique design but average performance.,audio_files/OnePlus 8T Cyberpunk.mp3,3,2024-06-25,Linda Martinez,In-store
+OnePlus 7 Pro 5G McLaren,Good performance but heavy.,audio_files/OnePlus 7 Pro 5G McLaren.mp3,4,2024-07-01,Kevin Thomas,Online
+OnePlus 8 Pro 5G McLaren,Stylish and fast but battery life is lacking.,audio_files/OnePlus 8 Pro 5G McLaren.mp3,2,2024-07-05,Nora White,App
+OnePlus 10T Cyberpunk,Great performance and design but battery life is average.,audio_files/OnePlus 10T Cyberpunk.mp3,4,2024-07-10,Joshua Harris,In-store
+OnePlus Nord 2T,"Good performance for mid-range, but camera is just okay.",audio_files/OnePlus Nord 2T.mp3,4,2024-07-15,Amy Davis,Online
+OnePlus Nord CE 5G,Budget-friendly but lacks premium features.,audio_files/OnePlus Nord CE 5G.mp3,3,2024-07-20,Michael Johnson,App
+OnePlus Nord N100,Good for basic use but very limited.,audio_files/OnePlus Nord N100.mp3,4,2024-07-25,Linda Green,In-store
+OnePlus Nord N200 (2017),Decent budget phone but camera is lacking.,audio_files/OnePlus Nord N200 (2017).mp3,2,2024-07-30,Sarah Davis,Online
+OnePlus 6T McLaren Edition,Good performance but software feels outdated.,audio_files/OnePlus 6T McLaren Edition.mp3,2,2024-08-01,Chris Garcia,App
+OnePlus 9 Pro 5G McLaren,Impressive but heavy and pricey.,audio_files/OnePlus 9 Pro 5G McLaren.mp3,3,2024-08-05,Alice Lee,In-store
+OnePlus 8T Cyberpunk Edition,Unique design but average performance.,audio_files/OnePlus 8T Cyberpunk Edition.mp3,3,2024-08-10,David Brown,Online
+OnePlus 7 Pro 5G Marble,Good features but a bit outdated.,audio_files/OnePlus 7 Pro 5G Marble.mp3,3,2024-08-15,Nora White,App
+OnePlus 8RT,"Excellent camera and performance, but battery could be better.",audio_files/OnePlus 8RT.mp3,3,2024-08-20,Emily Johnson,In-store
+OnePlus 7T 5G,Good phone but lacks modern features.,audio_files/OnePlus 7T 5G.mp3,3,2024-08-25,John Doe,Online
+OnePlus 6T 5G,Solid performance but battery life could be improved.,audio_files/OnePlus 6T 5G.mp3,4,2024-08-30,Kevin Smith,App
+OnePlus 5T 5G,Decent performance but feels outdated.,audio_files/OnePlus 5T 5G.mp3,2,2024-09-01,Michael Johnson,In-store
+OnePlus 8 Pro 5G Green,Good performance but lacks features.,audio_files/OnePlus 8 Pro 5G Green.mp3,3,2024-09-05,Linda White,Online
+OnePlus 9 Pro 5G Black,Great phone but very expensive.,audio_files/OnePlus 9 Pro 5G Black.mp3,5,2024-09-10,Sarah Brown,App
+OnePlus Nord N100 5G,"Budget device that does its job, but performance is lacking.",audio_files/OnePlus Nord N100 5G.mp3,2,2024-09-15,Chris Taylor,In-store
+OnePlus Nord N200 5G,Good for casual users but not for heavy multitasking.,audio_files/OnePlus Nord N200 5G.mp3,3,2024-09-20,Alice Davis,Online
+OnePlus 5 5G,Old model but still decent.,audio_files/OnePlus 5 5G.mp3,3,2024-09-25,Mike Green,App
+OnePlus 3T 5G,"Solid phone with good performance, but outdated.",audio_files/OnePlus 3T 5G.mp3,4,2024-09-30,Jessica Martin,In-store
+OnePlus 8T 5G,"Good overall performance, but nothing groundbreaking.",audio_files/OnePlus 8T 5G.mp3,4,2024-10-05,Robert Harris,Online
+OnePlus 10 Pro 5G (2018),"Fantastic design and great camera, but it's heavy.",audio_files/OnePlus 10 Pro 5G (2018).mp3,4,2024-10-10,Kevin Thomas,App
+Huawei P50 Pro,Excellent camera performance and good design.,audio_files/Huawei P50 Pro.mp3,5,2024-01-01,John Doe,Online
+Huawei P50,Good performance but software lacks some features.,audio_files/Huawei P50.mp3,2,2024-01-05,Jane Smith,In-store
+Huawei P40 Pro,Great camera but battery life could be better.,audio_files/Huawei P40 Pro.mp3,4,2024-01-10,Emily Johnson,Online
+Huawei P40,Solid phone overall but lacks Google services.,audio_files/Huawei P40.mp3,3,2024-01-15,Michael Brown,App
+Huawei P30 Pro,"Fantastic camera features, but it's pricey.",audio_files/Huawei P30 Pro.mp3,3,2024-01-20,Sarah Davis,In-store
+Huawei P30,"Good battery life and performance, but it's getting old.",audio_files/Huawei P30.mp3,2,2024-01-25,David Wilson,Online
+Huawei Mate 40 Pro,Impressive performance and camera but very expensive.,audio_files/Huawei Mate 40 Pro.mp3,5,2024-01-30,Linda Martinez,App
+Huawei Mate 30 Pro,Great design but software support is lacking.,audio_files/Huawei Mate 30 Pro.mp3,2,2024-02-02,Chris Garcia,Online
+Huawei Mate 20 Pro,"Good value for money, but it feels bulky.",audio_files/Huawei Mate 20 Pro.mp3,3,2024-02-05,Alice Lee,In-store
+Huawei Nova 9,Nice design and performance but camera is average.,audio_files/Huawei Nova 9.mp3,3,2024-02-10,Kevin Thomas,Online
+Huawei Nova 8,"Good mid-range phone, but lacks some features.",audio_files/Huawei Nova 8.mp3,3,2024-02-15,Nora White,In-store
+Huawei Nova 7,Solid performance for the price but camera needs improvement.,audio_files/Huawei Nova 7.mp3,3,2024-02-20,Joshua Harris,App
+Huawei Y9a,"Affordable and reliable, but not for heavy users.",audio_files/Huawei Y9a.mp3,3,2024-02-25,Amy Davis,Online
+Huawei Y6p,Great battery life but performance is lacking.,audio_files/Huawei Y6p.mp3,2,2024-03-01,Michael Johnson,In-store
+Huawei Y7a,Good features for the price but not suitable for gaming.,audio_files/Huawei Y7a.mp3,2,2024-03-05,Jessica Wilson,App
+Huawei Y5p,Budget device but doesn't perform well with apps.,audio_files/Huawei Y5p.mp3,3,2024-03-10,James Taylor,Online
+Huawei P20 Pro,Old but still performs well.,audio_files/Huawei P20 Pro.mp3,3,2024-03-15,Emily White,In-store
+Huawei P20,Good for basic tasks but outdated.,audio_files/Huawei P20.mp3,3,2024-03-20,Chris Brown,App
+Huawei Mate 10 Pro,"Solid performance, but battery life is average.",audio_files/Huawei Mate 10 Pro.mp3,2,2024-03-25,Linda Green,Online
+Huawei Mate 20,"Good value for the price, but heavy and bulky.",audio_files/Huawei Mate 20.mp3,4,2024-03-30,Robert Harris,In-store
+Huawei P10 Plus,"Still a good phone, but showing its age.",audio_files/Huawei P10 Plus.mp3,4,2024-04-01,Alice Davis,App
+Huawei P10,Good performance but outdated camera.,audio_files/Huawei P10.mp3,3,2024-04-05,John White,Online
+Huawei Ascend P7,An older model but still decent for light use.,audio_files/Huawei Ascend P7.mp3,4,2024-04-10,Chris Garcia,In-store
+Huawei Ascend Mate 7,Good battery life but lacks modern features.,audio_files/Huawei Ascend Mate 7.mp3,2,2024-04-15,Sarah Wilson,App
+Huawei Honor 20,Solid performance and good camera for the price.,audio_files/Huawei Honor 20.mp3,4,2024-04-20,Kevin Smith,Online
+Huawei Honor 9,"Good for basic tasks, but feels slow compared to newer models.",audio_files/Huawei Honor 9.mp3,3,2024-04-25,Michael Johnson,In-store
+Huawei P30 Lite,"Affordable with decent features, but lacks in performance.",audio_files/Huawei P30 Lite.mp3,3,2024-04-30,Linda White,App
+Huawei Y5 2019,Budget-friendly but very basic.,audio_files/Huawei Y5 2019.mp3,3,2024-05-01,Nora Brown,Online
+Huawei Y9 2019,Good for casual use but lacks performance.,audio_files/Huawei Y9 2019.mp3,2,2024-05-05,Alice Johnson,In-store
+Huawei Y3,"Old model, just good for calls and texts.",audio_files/Huawei Y3.mp3,4,2024-05-10,Mike Green,App
+Huawei Nova 7i,"Great mid-range phone, but camera could be better.",audio_files/Huawei Nova 7i.mp3,4,2024-05-15,Jessica Martin,Online
+Huawei P40 Lite,Good camera but software feels lacking.,audio_files/Huawei P40 Lite.mp3,3,2024-05-20,Robert Johnson,In-store
+Huawei P Smart 2021,Decent performance for the price.,audio_files/Huawei P Smart 2021.mp3,4,2024-05-25,Kevin Thomas,App
+Huawei Mate X,"Great design and performance, but very expensive.",audio_files/Huawei Mate X.mp3,5,2024-05-30,Michael Johnson,Online
+Huawei Mate X2,Amazing folding design but heavy.,audio_files/Huawei Mate X2.mp3,4,2024-06-01,Linda Green,In-store
+Huawei Mate 40E,Good performance but lacks Google services.,audio_files/Huawei Mate 40E.mp3,3,2024-06-05,Alice Davis,App
+Huawei Mate 20X,Impressive performance for gaming but feels bulky.,audio_files/Huawei Mate 20X.mp3,4,2024-06-10,Chris Brown,Online
+Huawei P Smart S,Nice features for the price but camera is just okay.,audio_files/Huawei P Smart S.mp3,4,2024-06-15,Nora White,In-store
+Huawei P30 Pro New Edition,"Great camera and performance, but a bit pricey.",audio_files/Huawei P30 Pro New Edition.mp3,5,2024-06-20,Kevin Smith,App
+Huawei Y6 2019,Good budget option but lacks power.,audio_files/Huawei Y6 2019.mp3,3,2024-06-25,Michael Brown,Online
+Huawei Nova 5T,Great camera and performance but heavy.,audio_files/Huawei Nova 5T.mp3,4,2024-07-01,John Doe,In-store
+Huawei Nova 5,Good design but performance could be better.,audio_files/Huawei Nova 5.mp3,3,2024-07-05,Alice Johnson,App
+Huawei Nova 4,Good features but lacks modern software support.,audio_files/Huawei Nova 4.mp3,4,2024-07-10,Sarah Davis,App
+Huawei Honor 10 Lite,Good budget phone but battery life is mediocre.,audio_files/Huawei Honor 10 Lite.mp3,2,2024-07-15,Michael Harris,In-store
+Huawei P20 Lite,Decent performance but camera is not impressive.,audio_files/Huawei P20 Lite.mp3,2,2024-07-20,Jessica Wilson,App
+Huawei P Smart 2020,Good for everyday tasks but nothing special.,audio_files/Huawei P Smart 2020.mp3,3,2024-07-25,James Taylor,Online
+Huawei Y7 2019,Good for basic use but very limited.,audio_files/Huawei Y7 2019.mp3,4,2024-07-30,Linda Martinez,In-store
+Huawei Honor 9X,Good performance but lacks Google services.,audio_files/Huawei Honor 9X.mp3,3,2024-08-01,Alice Lee,App
+Huawei Y8p,Good mid-range phone with decent performance.,audio_files/Huawei Y8p.mp3,4,2024-08-05,Kevin Thomas,Online
+Huawei Nova 3,Great design but software feels outdated.,audio_files/Huawei Nova 3.mp3,2,2024-08-10,Nora White,In-store
+Huawei P Smart (2021),Good performance for the price but lacks premium features.,audio_files/Huawei P Smart (2021).mp3,4,2024-08-15,Chris Garcia,App
+Huawei P30 Pro 5G,"Excellent camera and features, but it is bulky.",audio_files/Huawei P30 Pro 5G.mp3,3,2024-08-20,Sarah Johnson,Online
+Huawei Mate 40,"Good performance, but expensive.",audio_files/Huawei Mate 40.mp3,4,2024-08-25,Michael Brown,In-store
+Huawei P30 Lite 5G,Great battery life but performance is average.,audio_files/Huawei P30 Lite 5G.mp3,4,2024-08-30,Alice Davis,App
+Huawei Mate 10,Good performance but feels outdated.,audio_files/Huawei Mate 10.mp3,3,2024-09-01,John White,Online
+Huawei P10 5G,Decent phone but battery life is average.,audio_files/Huawei P10 5G.mp3,3,2024-09-05,Kevin Smith,In-store
+Huawei Y9,Good phone but limited software support.,audio_files/Huawei Y9.mp3,4,2024-09-10,Nora White,App
+Huawei Nova 8 4G,Good mid-range phone but lacks premium features.,audio_files/Huawei Nova 8 4G.mp3,3,2024-09-15,Chris Garcia,Online
+Huawei P40 Lite 4G,Affordable but camera is just okay.,audio_files/Huawei P40 Lite 4G.mp3,3,2024-09-20,Alice Lee,In-store
+Huawei Y5p 4G,Basic device but handles everyday tasks well.,audio_files/Huawei Y5p 4G.mp3,3,2024-09-25,Mike Green,App
+Huawei P Smart 2021 5G,Good overall phone but battery life could be improved.,audio_files/Huawei P Smart 2021 5G.mp3,4,2024-09-30,Linda Green,Online
+Huawei Y9s,Solid phone but nothing groundbreaking.,audio_files/Huawei Y9s.mp3,3,2024-10-01,Jessica Wilson,In-store
+Huawei Nova 9 5G,Great camera and design but software is limiting.,audio_files/Huawei Nova 9 5G.mp3,4,2024-10-05,Robert Harris,App
+Huawei P40 Pro Plus,Amazing camera quality but quite pricey.,audio_files/Huawei P40 Pro Plus.mp3,5,2024-10-10,Emily Davis,Online
+Huawei Nova 10,Decent performance but camera is average.,audio_files/Huawei Nova 10.mp3,2,2024-10-15,Alice Johnson,App
+Huawei Honor 20 Pro,Good features for the price but not suitable for heavy tasks.,audio_files/Huawei Honor 20 Pro.mp3,3,2024-10-20,Michael Brown,In-store
+Huawei Mate 30 Pro 5G,Excellent performance but heavy and bulky.,audio_files/Huawei Mate 30 Pro 5G.mp3,3,2024-10-25,Sarah Brown,App
+Huawei Y7,Great budget option but very basic.,audio_files/Huawei Y7.mp3,3,2024-10-30,Kevin Thomas,
+Xiaomi Mi 11,Fantastic performance and excellent camera quality.,audio_files/Xiaomi Mi 11.mp3,5,2024-01-01,John Doe,Online
+Xiaomi Mi 11 Pro,"Incredible display, but the battery drains quickly.",audio_files/Xiaomi Mi 11 Pro.mp3,3,2024-01-05,Jane Smith,In-store
+Xiaomi Mi 11 Ultra,"Top-notch camera and performance, worth every penny.",audio_files/Xiaomi Mi 11 Ultra.mp3,5,2024-01-10,Emily Johnson,Online
+Xiaomi Redmi Note 11,"Great value for money, good performance.",audio_files/Xiaomi Redmi Note 11.mp3,4,2024-01-15,Michael Brown,App
+Xiaomi Redmi Note 10,"Solid mid-range phone, but lacks some premium features.",audio_files/Xiaomi Redmi Note 10.mp3,3,2024-01-20,Sarah Davis,In-store
+Xiaomi Poco X3 Pro,Excellent gaming performance at a budget price.,audio_files/Xiaomi Poco X3 Pro.mp3,5,2024-01-25,David Wilson,Online
+Xiaomi Mi 10,"Good performance, but outdated compared to newer models.",audio_files/Xiaomi Mi 10.mp3,3,2024-01-30,Linda Martinez,App
+Xiaomi Mi 10T,"Great camera features, but software support is lacking.",audio_files/Xiaomi Mi 10T.mp3,2,2024-02-02,Chris Garcia,Online
+Xiaomi Mi A3,Decent phone but not suitable for heavy multitasking.,audio_files/Xiaomi Mi A3.mp3,2,2024-02-05,Alice Lee,In-store
+Xiaomi Redmi 9,"Good budget option, but performance is limited.",audio_files/Xiaomi Redmi 9.mp3,3,2024-02-10,Kevin Thomas,Online
+Xiaomi Mi Mix 4,"Innovative design, but it's quite heavy.",audio_files/Xiaomi Mi Mix 4.mp3,3,2024-02-15,Nora White,In-store
+Xiaomi Mi 9,Old model but still performs well for basic tasks.,audio_files/Xiaomi Mi 9.mp3,4,2024-02-20,Joshua Harris,App
+Xiaomi Redmi Note 9,"Affordable and reliable, but camera is just okay.",audio_files/Xiaomi Redmi Note 9.mp3,4,2024-02-25,Amy Davis,Online
+Xiaomi Poco F3,Great performance and battery life for the price.,audio_files/Xiaomi Poco F3.mp3,5,2024-03-01,Michael Johnson,In-store
+Xiaomi Mi 9T Pro,Good design but battery life could be better.,audio_files/Xiaomi Mi 9T Pro.mp3,3,2024-03-05,Jessica Wilson,App
+Xiaomi Mi 8,"Still a solid phone, but showing its age.",audio_files/Xiaomi Mi 8.mp3,4,2024-03-10,James Taylor,Online
+Xiaomi Mi 10i,"Great value for money, but lacks software support.",audio_files/Xiaomi Mi 10i.mp3,4,2024-03-15,Emily White,In-store
+Xiaomi Redmi K40,"Excellent performance for gaming, highly recommended.",audio_files/Xiaomi Redmi K40.mp3,5,2024-03-20,Chris Brown,App
+Xiaomi Redmi Note 10 Pro,"Great camera and performance, very satisfied.",audio_files/Xiaomi Redmi Note 10 Pro.mp3,5,2024-03-25,Linda Green,Online
+Xiaomi Mi 11 Lite,Stylish design but average performance.,audio_files/Xiaomi Mi 11 Lite.mp3,2,2024-03-30,Robert Harris,In-store
+Xiaomi Mi A2,"Good camera and performance, but lacks modern features.",audio_files/Xiaomi Mi A2.mp3,3,2024-04-01,Alice Davis,App
+Xiaomi Redmi 9A,"Basic device that does its job, but slow for heavy use.",audio_files/Xiaomi Redmi 9A.mp3,3,2024-04-05,John White,Online
+Xiaomi Mi Mix Alpha,"Unique design, but the price is excessively high.",audio_files/Xiaomi Mi Mix Alpha.mp3,2,2024-04-10,Kevin Smith,In-store
+Xiaomi Poco M3,Budget-friendly but very basic.,audio_files/Xiaomi Poco M3.mp3,3,2024-04-15,Nora Brown,App
+Xiaomi Redmi Note 9 Pro,"Good performance, but lacks software updates.",audio_files/Xiaomi Redmi Note 9 Pro.mp3,3,2024-04-20,Amy Davis,Online
+Xiaomi Mi 10T Pro,"Excellent display and performance, but battery could last longer.",audio_files/Xiaomi Mi 10T Pro.mp3,4,2024-04-25,Mike Green,In-store
+Xiaomi Mi 9 SE,"Solid mid-range phone, but camera is just okay.",audio_files/Xiaomi Mi 9 SE.mp3,3,2024-04-30,Linda White,App
+Xiaomi Redmi K30,"Great features for the price, but feels a bit heavy.",audio_files/Xiaomi Redmi K30.mp3,4,2024-05-01,Jessica Martin,Online
+Xiaomi Redmi Note 10S,"Good value for the price, but performance is average.",audio_files/Xiaomi Redmi Note 10S.mp3,2,2024-05-05,Kevin Thomas,In-store
+Xiaomi Mi 11X,"Good performance and battery life, but camera could be better.",audio_files/Xiaomi Mi 11X.mp3,4,2024-05-10,Sarah Davis,App
+Xiaomi Mi 11X Pro,"Great performance, but a bit pricey.",audio_files/Xiaomi Mi 11X Pro.mp3,4,2024-05-15,Mike Lee,Online
+Xiaomi Redmi Note 11T,"Decent performance for the price, but battery drains quickly.",audio_files/Xiaomi Redmi Note 11T.mp3,2,2024-05-20,Linda Green,In-store
+Xiaomi Mi 10S,"Good design and performance, but not for heavy tasks.",audio_files/Xiaomi Mi 10S.mp3,3,2024-05-25,Alice Johnson,App
+Xiaomi Mi 9T,Good phone for the price but camera is lacking.,audio_files/Xiaomi Mi 9T.mp3,3,2024-05-30,Chris Brown,Online
+Xiaomi Mi A1,Decent budget phone but lacks modern features.,audio_files/Xiaomi Mi A1.mp3,2,2024-06-01,Nora White,In-store
+Xiaomi Mi 5,Old model but still decent for calls and texts.,audio_files/Xiaomi Mi 5.mp3,3,2024-06-05,Kevin Smith,App
+Xiaomi Mi 6,"Great camera for its time, but feels outdated.",audio_files/Xiaomi Mi 6.mp3,3,2024-06-10,Michael Johnson,Online
+Xiaomi Redmi 8,"Basic features, good for simple tasks.",audio_files/Xiaomi Redmi 8.mp3,4,2024-06-15,Sarah Davis,In-store
+Xiaomi Mi 9 Pro,Impressive performance but heavy and bulky.,audio_files/Xiaomi Mi 9 Pro.mp3,4,2024-06-20,John Doe,App
+Xiaomi Mi 10T Lite,"Good for everyday use, but not for heavy multitasking.",audio_files/Xiaomi Mi 10T Lite.mp3,3,2024-06-25,Alice Lee,Online
+Xiaomi Redmi 10,"Great for the price, but not for power users.",audio_files/Xiaomi Redmi 10.mp3,3,2024-06-30,David Wilson,In-store
+Xiaomi Mi Mix 3,"Innovative design, but battery life is average.",audio_files/Xiaomi Mi Mix 3.mp3,2,2024-07-01,Jessica Martin,App
+Xiaomi Redmi K20,Solid phone for its price but outdated.,audio_files/Xiaomi Redmi K20.mp3,3,2024-07-05,Michael Brown,Online
+Xiaomi Mi 8 Lite,Good budget option but lacks features.,audio_files/Xiaomi Mi 8 Lite.mp3,3,2024-07-10,Linda White,In-store
+Xiaomi Mi 10 Pro,Great performance and camera but heavy.,audio_files/Xiaomi Mi 10 Pro.mp3,4,2024-07-15,Sarah Davis,App
+Xiaomi Poco M2 Pro,Good performance for the price but camera is average.,audio_files/Xiaomi Poco M2 Pro.mp3,3,2024-07-20,Chris Garcia,Online
+Xiaomi Mi 10i 5G,Solid performance but lacks premium features.,audio_files/Xiaomi Mi 10i 5G.mp3,3,2024-07-25,Alice Johnson,In-store
+Xiaomi Redmi Note 8 Pro,"Good camera and performance, very satisfied.",audio_files/Xiaomi Redmi Note 8 Pro.mp3,5,2024-07-30,Kevin Thomas,App
+Xiaomi Redmi 8A,Affordable but very basic.,audio_files/Xiaomi Redmi 8A.mp3,3,2024-08-01,Michael Lee,Online
+Xiaomi Mi 11 Lite NE,Good overall phone but battery life is average.,audio_files/Xiaomi Mi 11 Lite NE.mp3,3,2024-08-05,Linda Green,In-store
+Xiaomi Mi A2 Lite,Good performance but feels outdated.,audio_files/Xiaomi Mi A2 Lite.mp3,3,2024-08-10,Alice Davis,App
+Xiaomi Redmi 10C,"Good budget phone, but camera is just okay.",audio_files/Xiaomi Redmi 10C.mp3,3,2024-08-15,Chris Brown,Online
+Xiaomi Mi 11 Pro 5G,Excellent features but very heavy.,audio_files/Xiaomi Mi 11 Pro 5G.mp3,3,2024-08-20,Sarah Davis,In-store
+Xiaomi Mi 9 Lite,"Good overall performance, but software feels outdated.",audio_files/Xiaomi Mi 9 Lite.mp3,3,2024-08-25,Kevin Smith,App
+Xiaomi Mi 9 E,"Good phone for the price, but the camera is average.",audio_files/Xiaomi Mi 9 E.mp3,3,2024-08-30,Nora White,In-store
+Xiaomi Redmi Note 9 Pro Max,Great battery life but feels a bit bulky.,audio_files/Xiaomi Redmi Note 9 Pro Max.mp3,4,2024-09-01,Michael Johnson,App
+Xiaomi Mi 9T Pro 5G,Great features for the price but battery life is average.,audio_files/Xiaomi Mi 9T Pro 5G.mp3,3,2024-09-05,Alice Lee,Online
+Xiaomi Mi Mix Alpha 5G,"Innovative design, but performance is lacking.",audio_files/Xiaomi Mi Mix Alpha 5G.mp3,2,2024-09-10,John Doe,In-store
+Xiaomi Redmi K40 Pro,Excellent performance for gaming but lacks camera features.,audio_files/Xiaomi Redmi K40 Pro.mp3,3,2024-09-15,Karen Brown,App
+Xiaomi Mi A3 Lite,Good entry-level phone but not suitable for heavy use.,audio_files/Xiaomi Mi A3 Lite.mp3,2,2024-09-20,Sarah Wilson,Online
+Xiaomi Redmi 6A,"Basic phone for calls and texts, but very limited.",audio_files/Xiaomi Redmi 6A.mp3,3,2024-09-25,Michael Brown,In-store
+Xiaomi Mi 10S 5G,Great performance but battery life is average.,audio_files/Xiaomi Mi 10S 5G.mp3,3,2024-09-30,Emily Johnson,App
+Xiaomi Redmi Note 7,Affordable and reliable for everyday tasks.,audio_files/Xiaomi Redmi Note 7.mp3,4,2024-10-29,James Cameron,Online
+Oppo Find X3 Pro,Exceptional performance and stunning display.,audio_files/Oppo Find X3 Pro.mp3,5,2024-01-01,John Doe,Online
+Oppo Find X2,"Great design and camera, but battery life could be better.",audio_files/Oppo Find X2.mp3,4,2024-01-05,Jane Smith,In-store
+Oppo Reno 6 Pro,Excellent performance with solid camera capabilities.,audio_files/Oppo Reno 6 Pro.mp3,5,2024-01-10,Emily Johnson,Online
+Oppo Reno 6,Good overall phone but feels a bit bulky.,audio_files/Oppo Reno 6.mp3,3,2024-01-15,Michael Brown,App
+Oppo A94,Great value for money with decent performance.,audio_files/Oppo A94.mp3,4,2024-01-20,Sarah Davis,In-store
+Oppo A74,Solid mid-range phone but lacks some features.,audio_files/Oppo A74.mp3,3,2024-01-25,David Wilson,Online
+Oppo A54,Affordable but very basic for heavy use.,audio_files/Oppo A54.mp3,3,2024-01-30,Linda Martinez,App
+Oppo F19 Pro,"Good performance for the price, but camera is average.",audio_files/Oppo F19 Pro.mp3,3,2024-02-02,Chris Garcia,Online
+Oppo Reno 5,"Great camera and performance, but outdated now.",audio_files/Oppo Reno 5.mp3,4,2024-02-05,Alice Lee,In-store
+Oppo F17,"Stylish design, but not very powerful.",audio_files/Oppo F17.mp3,2,2024-02-10,Kevin Thomas,Online
+Oppo Reno 4 Pro,Good camera but battery life is just average.,audio_files/Oppo Reno 4 Pro.mp3,2,2024-02-15,Nora White,In-store
+Oppo A53,Great budget option but performance is limited.,audio_files/Oppo A53.mp3,3,2024-02-20,Joshua Harris,App
+Oppo A31,"Basic features, good for simple tasks.",audio_files/Oppo A31.mp3,4,2024-02-25,Amy Davis,Online
+Oppo F21 Pro,"Solid camera performance, but the software is lacking.",audio_files/Oppo F21 Pro.mp3,2,2024-03-01,Michael Johnson,In-store
+Oppo Find X2 Pro,Premium features but very heavy and bulky.,audio_files/Oppo Find X2 Pro.mp3,1,2024-03-05,Jessica Wilson,App
+Oppo A12,"Budget-friendly, but performance is lacking.",audio_files/Oppo A12.mp3,2,2024-03-10,James Taylor,Online
+Oppo F15,Good design but battery life is mediocre.,audio_files/Oppo F15.mp3,2,2024-03-15,Emily White,In-store
+Oppo Reno 2,Great design and good performance but feels outdated.,audio_files/Oppo Reno 2.mp3,4,2024-03-20,Chris Brown,App
+Oppo K9,Good mid-range phone but lacks some premium features.,audio_files/Oppo K9.mp3,3,2024-03-25,Linda Green,Online
+Oppo A5,"Affordable and reliable, but not suitable for heavy tasks.",audio_files/Oppo A5.mp3,2,2024-03-30,Robert Harris,In-store
+Oppo A9,"Good battery life, but performance is average.",audio_files/Oppo A9.mp3,2,2024-04-01,Alice Davis,App
+Oppo R15,"SStill a solid phone, but showing its age.",audio_files/Oppo R15.mp3,4,2024-04-05,John White,Online
+Oppo Reno 3,Good camera features but performance could be better.,audio_files/Oppo Reno 3.mp3,4,2024-04-10,Kevin Smith,In-store
+Oppo F9,"Great for selfies, but battery life could be improved.",audio_files/Oppo F9.mp3,5,2024-04-15,Nora Brown,App
+Oppo A72,Good performance and features for the price.,audio_files/Oppo A72.mp3,4,2024-04-20,Amy Davis,Online
+Oppo A31 2020,Good for everyday tasks but lacks power.,audio_files/Oppo A31 2020.mp3,3,2024-04-25,Mike Green,In-store
+Oppo Reno 3 Pro,Excellent camera and design but software feels outdated.,audio_files/Oppo Reno 3 Pro.mp3,3,2024-04-30,Linda White,App
+Oppo F5,Good performance but outdated camera.,audio_files/Oppo F5.mp3,3,2024-05-01,Jessica Martin,Online
+Oppo A12e,"Basic device that does its job, but slow for heavy use.",audio_files/Oppo A12e.mp3,3,2024-05-05,Kevin Thomas,In-store
+Oppo K7,Affordable but very basic for power users.,audio_files/Oppo K7.mp3,3,2024-05-10,Michael Johnson,App
+Oppo A53s,Good camera and performance for the price.,audio_files/Oppo A53s.mp3,4,2024-05-15,Alice Lee,Online
+Oppo R11,Solid phone but lacks modern features.,audio_files/Oppo R11.mp3,2,2024-05-20,David Wilson,In-store
+Oppo Reno Z,Stylish design but battery life is average.,audio_files/Oppo Reno Z.mp3,2,2024-05-25,Sarah Davis,App
+Oppo A54s,Good for everyday use but lacks advanced features.,audio_files/Oppo A54s.mp3,3,2024-05-30,Mike Brown,Online
+Oppo F19,Good performance but feels heavy.,audio_files/Oppo F19.mp3,4,2024-06-01,Linda Green,In-store
+Oppo A55,Basic phone but handles calls and texts well.,audio_files/Oppo A55.mp3,4,2024-06-05,Jessica Wilson,App
+Oppo A15,Good entry-level phone but not suitable for heavy use.,audio_files/Oppo A15.mp3,2,2024-06-10,John Doe,Online
+Oppo K1,Decent performance but not for power users.,audio_files/Oppo K1.mp3,2,2024-06-15,Karen White,In-store
+Oppo F11,Great battery life but lacks in camera features.,audio_files/Oppo F11.mp3,3,2024-06-20,Sarah Wilson,App
+Oppo A92,Good design and performance but camera is average.,audio_files/Oppo A92.mp3,2,2024-06-25,Kevin Thomas,Online
+Oppo F17 Pro,Good camera features but battery life is average.,audio_files/Oppo F17 Pro.mp3,2,2024-06-30,Nora Brown,In-store
+Oppo Reno 2 Z,Stylish design and good performance for the price.,audio_files/Oppo Reno 2 Z.mp3,4,2024-07-01,Jessica Martin,App
+Oppo R9s,Good phone for the price but outdated.,audio_files/Oppo R9s.mp3,4,2024-07-05,Alice Johnson,Online
+Oppo K3,Affordable with decent performance.,audio_files/Oppo K3.mp3,4,2024-07-10,Michael Brown,In-store
+Oppo R15 Pro,Excellent camera but feels a bit heavy.,audio_files/Oppo R15 Pro.mp3,3,2024-07-15,David Wilson,App
+Oppo A71,Budget-friendly but basic performance.,audio_files/Oppo A71.mp3,3,2024-07-20,Kevin Smith,Online
+Oppo R17,Stylish design but software could be better.,audio_files/Oppo R17.mp3,3,2024-07-25,Nora White,In-store
+Oppo Find X2 Neo,Good camera and performance but heavy.,audio_files/Oppo Find X2 Neo.mp3,4,2024-07-30,Jessica Wilson,App
+Oppo Reno 4Z,Good overall performance but lacks features.,audio_files/Oppo Reno 4Z.mp3,3,2024-08-01,John Doe,Online
+Oppo A53 2020,Basic device but decent for calls and texts.,audio_files/Oppo A53 2020.mp3,4,2024-08-05,Karen White,In-store
+Oppo F19s,Good battery life but performance is average.,audio_files/Oppo F19s.mp3,2,2024-08-10,Sarah Davis,App
+Oppo Find N,Excellent folding design but quite heavy.,audio_files/Oppo Find N.mp3,3,2024-08-15,Michael Brown,App
+Oppo A92s,Good camera for the price but feels outdated.,audio_files/Oppo A92s.mp3,3,2024-08-20,Jessica Martin,Online
+Oppo R15s,Good for basic tasks but not for heavy users.,audio_files/Oppo R15s.mp3,3,2024-08-25,Alice Johnson,In-store
+Oppo Reno 5 Z,Great camera but lacks modern software.,audio_files/Oppo Reno 5 Z.mp3,2,2024-08-30,Kevin Thomas,App
+Oppo A74 5G,Good for gaming but battery life could be better.,audio_files/Oppo A74 5G.mp3,4,2024-09-01,Nora Brown,Online
+Oppo K9 Pro,Great performance for the price but a bit bulky.,audio_files/Oppo K9 Pro.mp3,4,2024-09-05,John Doe,In-store
+Oppo R17 Pro,Stylish design with solid performance.,audio_files/Oppo R17 Pro.mp3,4,2024-09-10,Karen White,App
+Oppo A77,Basic features but handles everyday tasks well.,audio_files/Oppo A77.mp3,4,2024-09-15,Michael Johnson,Online
+Oppo A93,"Good value for money, but lacks some features.",audio_files/Oppo A93.mp3,2,2024-09-20,Sarah Davis,In-store
+Oppo Reno 5 Pro 5G,Great design but battery life is average.,audio_files/Oppo Reno 5 Pro 5G.mp3,2,2024-09-25,Jessica Martin,App
+Oppo A54 5G,Decent performance but very basic.,audio_files/Oppo A54 5G.mp3,2,2024-09-30,Alice Johnson,Online
+Oppo A83,Good for casual use but performance is lacking.,audio_files/Oppo A83.mp3,1,2024-10-01,John Doe,In-store
+Oppo Reno 3 Pro 5G,Excellent camera features but lacks software updates.,audio_files/Oppo Reno 3 Pro 5G.mp3,3,2024-10-05,Karen White,App
+Oppo A30,Budget-friendly but very basic for power users.,audio_files/Oppo A30.mp3,3,2024-10-10,Sarah Davis,Online
+Oppo K5,Solid mid-range phone but feels heavy.,audio_files/Oppo K5.mp3,3,2024-10-15,Michael Johnson,In-store
+Oppo A92s 5G,Good camera and performance but feels outdated.,audio_files/Oppo A92s 5G.mp3,3,2024-10-20,Jessica Wilson,App
+Oppo A54s 5G,Good for everyday use but lacks advanced features.,audio_files/Oppo A54s 5G.mp3,3,2024-10-25,Alice Lee,Online
+Oppo F19 Pro+,Great camera and battery life but feels a bit bulky.,audio_files/Oppo F19 Pro+.mp3,4,2024-10-30,Kevin Thomas,In-store
+Vivo V21 5G,"Great camera and sleek design, but battery life could be better.",audio_files/Vivo V21 5G.mp3,4,2024-01-01,John Doe,Online
+Vivo V23,Excellent performance with great selfie camera.,audio_files/Vivo V23.mp3,5,2024-01-05,Jane Smith,In-store
+Vivo X70 Pro,"Fantastic camera quality and performance, highly recommended.",audio_files/Vivo X70 Pro.mp3,5,2024-01-10,Emily Johnson,Online
+Vivo Y20,Good budget option but lacks advanced features.,audio_files/Vivo Y20.mp3,3,2024-01-15,Michael Brown,App
+Vivo Y31,Decent performance but not suitable for heavy multitasking.,audio_files/Vivo Y31.mp3,2,2024-01-20,Sarah Davis,In-store
+Vivo X60,"Great performance and design, but feels a bit heavy.",audio_files/Vivo X60.mp3,3,2024-01-25,David Wilson,Online
+Vivo V20,"Stylish design with a good camera, but software needs improvement.",audio_files/Vivo V20.mp3,4,2024-01-30,Linda Martinez,App
+Vivo V19,"Good performance, but battery drains quickly during gaming.",audio_files/Vivo V19.mp3,2,2024-02-02,Chris Garcia,Online
+Vivo S9,"Solid mid-range phone with a great camera, but bulky.",audio_files/Vivo S9.mp3,4,2024-02-05,Alice Lee,In-store
+Vivo Y12,Basic features but decent for everyday tasks.,audio_files/Vivo Y12.mp3,4,2024-02-10,Kevin Thomas,Online
+Vivo V15 Pro,Great camera but battery life could be better.,audio_files/Vivo V15 Pro.mp3,4,2024-02-15,Nora White,In-store
+Vivo X50,"Good camera and display, but feels outdated now.",audio_files/Vivo X50.mp3,3,2024-02-20,Joshua Harris,App
+Vivo S7,Good for selfies but performance is average.,audio_files/Vivo S7.mp3,2,2024-02-25,Amy Davis,Online
+Vivo V5,Affordable but lacks modern features.,audio_files/Vivo V5.mp3,2,2024-03-01,Michael Johnson,In-store
+Vivo V11 Pro,Good performance but camera could be better.,audio_files/Vivo V11 Pro.mp3,4,2024-03-05,Jessica Wilson,App
+Vivo Y15,Basic phone that handles calls and texts well.,audio_files/Vivo Y15.mp3,4,2024-03-10,James Taylor,Online
+Vivo X80,Top-notch performance with excellent camera capabilities.,audio_files/Vivo X80.mp3,5,2024-03-15,Emily White,In-store
+Vivo Y31s,"Good value for money, but software updates are slow.",audio_files/Vivo Y31s.mp3,2,2024-03-20,Chris Brown,App
+Vivo Y53,Basic features but decent for casual use.,audio_files/Vivo Y53.mp3,4,2024-03-25,Linda Green,Online
+Vivo X70,Great camera but battery life is average.,audio_files/Vivo X70.mp3,2,2024-03-30,Robert Harris,In-store
+Vivo S10,Stylish design but lacks premium features.,audio_files/Vivo S10.mp3,2,2024-04-01,Alice Davis,App
+Vivo V21e,Good performance for the price but lacks software support.,audio_files/Vivo V21e.mp3,3,2024-04-05,John White,Online
+Vivo Y12s,Budget-friendly but basic performance.,audio_files/Vivo Y12s.mp3,3,2024-04-10,Karen White,In-store
+Vivo X60 Pro,Excellent camera and performance but heavy.,audio_files/Vivo X60 Pro.mp3,4,2024-04-15,Sarah Davis,App
+Vivo S9 Pro,Great performance but feels a bit bulky.,audio_files/Vivo S9 Pro.mp3,4,2024-04-20,Kevin Thomas,Online
+Vivo Y95,Good entry-level phone but not for heavy users.,audio_files/Vivo Y95.mp3,3,2024-04-25,Nora Brown,In-store
+Vivo V15,"Great features for the price, but feels outdated.",audio_files/Vivo V15.mp3,3,2024-04-30,Emily Johnson,App
+Vivo V5 Plus,Good camera for selfies but performance is lacking.,audio_files/Vivo V5 Plus.mp3,2,2024-05-01,Alice Lee,Online
+Vivo X21,Stylish design but software feels outdated.,audio_files/Vivo X21.mp3,2,2024-05-05,David Wilson,In-store
+Vivo Y50,Decent performance but battery life could be better.,audio_files/Vivo Y50.mp3,4,2024-05-10,Michael Johnson,App
+Vivo V20 SE,Good design but average camera performance.,audio_files/Vivo V20 SE.mp3,3,2024-05-15,Sarah Davis,Online
+Vivo Y19,Good battery life but performance is limited.,audio_files/Vivo Y19.mp3,3,2024-05-20,Jessica Martin,In-store
+Vivo V21 5G (2022),"Great camera and sleek design, but battery life could be better.",audio_files/Vivo V21 5G (2022).mp3,4,2024-05-25,John Doe,Online
+Vivo Y71,"Basic phone that does its job, but not for power users.",audio_files/Vivo Y71.mp3,3,2024-05-30,Alice Lee,In-store
+Vivo X30,Good camera and performance but feels outdated.,audio_files/Vivo X30.mp3,3,2024-06-01,Kevin Thomas,App
+Vivo Z1 Pro,Great value for money with decent specs.,audio_files/Vivo Z1 Pro.mp3,4,2024-06-05,Nora White,Online
+Vivo S5,Stylish design but lacks modern features.,audio_files/Vivo S5.mp3,2,2024-06-10,Michael Brown,In-store
+Vivo X27,Good performance and camera but feels heavy.,audio_files/Vivo X27.mp3,4,2024-06-15,Jessica Wilson,App
+Vivo V7,Still a decent phone but feels outdated.,audio_files/Vivo V7.mp3,4,2024-06-20,John Doe,Online
+Vivo S6,Good overall performance but lacks some premium features.,audio_files/Vivo S6.mp3,3,2024-06-25,Karen White,In-store
+Vivo Y21s,"Affordable with basic features, good for calls.",audio_files/Vivo Y21s.mp3,4,2024-06-30,Sarah Davis,App
+Vivo V23 Pro,Great camera features but battery drains quickly.,audio_files/Vivo V23 Pro.mp3,3,2024-07-01,Alice Johnson,App
+Vivo Z3i,Good performance for the price but outdated.,audio_files/Vivo Z3i.mp3,4,2024-07-05,David Wilson,Online
+Vivo Y55s,Basic performance but suitable for casual use.,audio_files/Vivo Y55s.mp3,4,2024-07-10,Michael Johnson,In-store
+Vivo X23,Good camera and performance but software is outdated.,audio_files/Vivo X23.mp3,3,2024-07-15,Jessica Martin,App
+Vivo V9,Still a decent phone for basic tasks.,audio_files/Vivo V9.mp3,4,2024-07-20,Alice Lee,Online
+Vivo Y83,Affordable but limited features.,audio_files/Vivo Y83.mp3,3,2024-07-25,Kevin Thomas,In-store
+Vivo Z5x,Good overall performance but feels a bit bulky.,audio_files/Vivo Z5x.mp3,4,2024-07-30,Nora White,App
+Vivo X50 Pro,"Fantastic camera quality, but feels heavy.",audio_files/Vivo X50 Pro.mp3,3,2024-08-01,John Doe,App
+Vivo U10,Good for basic tasks but not suitable for heavy use.,audio_files/Vivo U10.mp3,2,2024-08-05,Karen White,Online
+Vivo Y12A,Basic phone but handles calls and texts well.,audio_files/Vivo Y12A.mp3,4,2024-08-10,Sarah Davis,In-store
+Vivo V20 Pro,Great camera features but feels a bit bulky.,audio_files/Vivo V20 Pro.mp3,4,2024-08-15,Jessica Wilson,App
+Vivo V17,Good value for the price but lacks modern features.,audio_files/Vivo V17.mp3,3,2024-08-20,Alice Johnson,Online
+Vivo X9s,Decent performance but battery life is just average.,audio_files/Vivo X9s.mp3,2,2024-08-25,David Wilson,In-store
+Vivo Y71i,Basic phone suitable for light users.,audio_files/Vivo Y71i.mp3,3,2024-08-30,Michael Johnson,App
+Vivo S9i,Good camera but performance is average.,audio_files/Vivo S9i.mp3,2,2024-09-01,Nora White,Online
+Vivo Y95s,Good design and performance but camera is just okay.,audio_files/Vivo Y95s.mp3,4,2024-09-05,Kevin Thomas,In-store
+Vivo V21e 5G,Good for selfies but average performance.,audio_files/Vivo V21e 5G.mp3,3,2024-09-10,John Doe,App
+Vivo U20,Good entry-level phone but lacks features.,audio_files/Vivo U20.mp3,3,2024-09-15,Karen White,Online
+Vivo V9 Youth,Stylish design but limited performance.,audio_files/Vivo V9 Youth.mp3,3,2024-09-20,Sarah Davis,In-store
+Vivo X80 Pro,"Excellent performance and features, highly recommended.",audio_files/Vivo X80 Pro.mp3,5,2024-09-25,Jessica Wilson,App
+Vivo Z1,Good overall phone but lacks premium features.,audio_files/Vivo Z1.mp3,3,2024-09-30,Alice Johnson,Online
+Vivo Y20G,Basic features but decent for everyday tasks.,audio_files/Vivo Y20G.mp3,4,2024-10-01,Michael Johnson,In-store
+Vivo Y21i,Affordable with decent performance but limited features.,audio_files/Vivo Y21i.mp3,4,2024-10-05,Nora Brown,App
+Vivo X90,Top-notch performance with excellent camera capabilities.,audio_files/Vivo X90.mp3,5,2024-10-10,Kevin Thomas,Online
+Vivo Y73,Good for casual use but performance is average.,audio_files/Vivo Y73.mp3,2,2024-10-15,John Doe,In-store
+Vivo V25,Great camera and performance but feels a bit bulky.,audio_files/Vivo V25.mp3,4,2024-10-20,Karen White,App
+Honor 50,"Great performance with an excellent camera, but battery life could be better.",audio_files/Honor 50.mp3,4,2024-01-01,John Doe,Online
+Honor 50 Lite,Decent performance for the price but lacks advanced features.,audio_files/Honor 50 Lite.mp3,3,2024-01-05,Jane Smith,In-store
+Honor 30 Pro,"Excellent camera and display, but software could be improved.",audio_files/Honor 30 Pro.mp3,5,2024-01-10,Emily Johnson,Online
+Honor 30,"Good mid-range phone, but feels a bit heavy.",audio_files/Honor 30.mp3,3,2024-01-15,Michael Brown,App
+Honor 20,"Great design and camera, but battery drains quickly.",audio_files/Honor 20.mp3,3,2024-01-20,Sarah Davis,In-store
+Honor 20 Pro,"Exceptional performance, but camera software needs work.",audio_files/Honor 20 Pro.mp3,3,2024-01-25,David Wilson,Online
+Honor 10,Solid performance but lacks modern features.,audio_files/Honor 10.mp3,2,2024-01-30,Linda Martinez,App
+Honor 9X,"Good overall phone, but feels outdated now.",audio_files/Honor 9X.mp3,3,2024-02-02,Chris Garcia,Online
+Honor View 20,Fantastic camera quality but bulky design.,audio_files/Honor View 20.mp3,4,2024-02-05,Alice Lee,In-store
+Honor 8X,Affordable but very basic for heavy use.,audio_files/Honor 8X.mp3,3,2024-02-10,Kevin Thomas,Online
+Honor 9,Good design but battery life is just average.,audio_files/Honor 9.mp3,2,2024-02-15,Nora White,In-store
+Honor 8,Budget-friendly but lacks modern features.,audio_files/Honor 8.mp3,2,2024-02-20,Joshua Harris,App
+Honor 10 Lite,Stylish design with good performance for the price.,audio_files/Honor 10 Lite.mp3,4,2024-02-25,Amy Davis,Online
+Honor 20S,Good camera for selfies but performance is lacking.,audio_files/Honor 20S.mp3,2,2024-03-01,Michael Johnson,In-store
+Honor V40,Great performance and features but heavy.,audio_files/Honor V40.mp3,4,2024-03-05,Jessica Wilson,App
+Honor X20,Affordable device but not suitable for heavy tasks.,audio_files/Honor X20.mp3,2,2024-03-10,James Taylor,Online
+Honor 9A,Basic features but decent for everyday tasks.,audio_files/Honor 9A.mp3,5,2024-03-15,Emily White,In-store
+Honor 9X Pro,Good performance but feels a bit outdated.,audio_files/Honor 9X Pro.mp3,3,2024-03-20,Chris Brown,App
+Honor Play,Great gaming performance but battery drains quickly.,audio_files/Honor Play.mp3,2,2024-03-25,Linda Green,Online
+Honor 8S,Basic phone but handles calls and texts well.,audio_files/Honor 8S.mp3,4,2024-03-30,Robert Harris,In-store
+Honor 20 Lite,Good features for the price but not for heavy users.,audio_files/Honor 20 Lite.mp3,4,2024-04-01,Alice Davis,App
+Honor 30S,Solid mid-range phone but feels heavy.,audio_files/Honor 30S.mp3,3,2024-04-05,John White,Online
+Honor V30,Excellent camera but battery life is average.,audio_files/Honor V30.mp3,2,2024-04-10,Karen White,In-store
+Honor 8A,Basic phone suitable for light users.,audio_files/Honor 8A.mp3,3,2024-04-15,Sarah Davis,App
+Honor 30 Lite,Good for casual use but performance is average.,audio_files/Honor 30 Lite.mp3,2,2024-04-20,Jessica Martin,Online
+Honor 9C,Affordable but very basic for power users.,audio_files/Honor 9C.mp3,3,2024-04-25,Kevin Thomas,In-store
+Honor 20e,Good for basic tasks but not suitable for heavy use.,audio_files/Honor 20e.mp3,2,2024-04-30,Nora Brown,App
+Honor X30,Great camera and performance but feels a bit bulky.,audio_files/Honor X30.mp3,4,2024-05-01,Michael Johnson,Online
+Honor Magic 3,"Top-notch performance and camera quality, highly recommended.",audio_files/Honor Magic 3.mp3,5,2024-05-05,Alice Lee,In-store
+Honor 20X,Decent performance but lacks some premium features.,audio_files/Honor 20X.mp3,2,2024-05-10,David Wilson,App
+Honor 9N,Stylish design but limited performance.,audio_files/Honor 9N.mp3,3,2024-05-15,Sarah Davis,Online
+Honor 9X Lite,Good value for money but lacks modern features.,audio_files/Honor 9X Lite.mp3,2,2024-05-20,Jessica Wilson,In-store
+Honor V40 Lite,Excellent design but software could be better.,audio_files/Honor V40 Lite.mp3,3,2024-05-25,John Doe,App
+Honor 30 Youth,Good for everyday use but lacks advanced features.,audio_files/Honor 30 Youth.mp3,3,2024-05-30,Karen White,Online
+Honor 20 Pro 5G,Great camera but feels heavy and bulky.,audio_files/Honor 20 Pro 5G.mp3,2,2024-06-01,Michael Johnson,In-store
+Honor 10X,"Basic phone that does its job, but slow for heavy use.",audio_files/Honor 10X.mp3,3,2024-06-05,Alice Johnson,App
+Honor 20A,Good entry-level phone but lacks features.,audio_files/Honor 20A.mp3,3,2024-06-10,Kevin Thomas,Online
+Honor 9S,"Good for basic tasks, but not suitable for heavy users.",audio_files/Honor 9S.mp3,2,2024-06-15,Nora White,In-store
+Honor Play 4 Pro,"Great gaming phone, but battery life could be better.",audio_files/Honor Play 4 Pro.mp3,4,2024-06-20,Jessica Wilson,App
+Honor 20i,Stylish design but lacks modern features.,audio_files/Honor 20i.mp3,2,2024-06-25,John Doe,Online
+Honor V30 Pro,Excellent camera but software is outdated.,audio_files/Honor V30 Pro.mp3,3,2024-06-30,Karen White,In-store
+Honor 20S Pro,Good overall performance but feels a bit heavy.,audio_files/Honor 20S Pro.mp3,3,2024-07-01,Michael Johnson,App
+Honor 9A Pro,Basic features but decent for everyday tasks.,audio_files/Honor 9A Pro.mp3,4,2024-07-05,Alice Johnson,Online
+Honor 8X Max,Good for casual use but not suitable for heavy tasks.,audio_files/Honor 8X Max.mp3,3,2024-07-10,Kevin Thomas,In-store
+Honor V40 Lite 4G,Affordable but lacks premium features.,audio_files/Honor V40 Lite 4G.mp3,3,2024-07-15,Nora Brown,App
+Honor 30 Pro Plus,Fantastic performance but heavy and bulky.,audio_files/Honor 30 Pro Plus.mp3,5,2024-07-20,Jessica Wilson,Online
+Honor 10C,Good camera and performance but feels outdated.,audio_files/Honor 10C.mp3,3,2024-07-25,John Doe,In-store
+Honor 9C Pro,Good for everyday use but lacks advanced features.,audio_files/Honor 9C Pro.mp3,3,2024-07-30,Karen White,App
+Honor Magic 2,Stylish design but battery life is just average.,audio_files/Honor Magic 2.mp3,2,2024-08-01,Sarah Davis,App
+Honor 30 Youth 5G,Good performance but feels a bit heavy.,audio_files/Honor 30 Youth 5G.mp3,3,2024-08-05,Michael Johnson,In-store
+Honor 9 Lite,Good for casual use but not suitable for heavy tasks.,audio_files/Honor 9 Lite.mp3,3,2024-08-10,Alice Johnson,App
+Honor 30 Pro 5G,Excellent camera quality but bulky design.,audio_files/Honor 30 Pro 5G.mp3,4,2024-08-15,Kevin Thomas,Online
+Honor Play 5,Decent performance but lacks some features.,audio_files/Honor Play 5.mp3,2,2024-08-20,Nora White,In-store
+Honor 30 Youth Lite,Stylish design but limited performance.,audio_files/Honor 30 Youth Lite.mp3,3,2024-08-25,Jessica Wilson,App
+Honor 10X Lite,Affordable but lacks premium features.,audio_files/Honor 10X Lite.mp3,3,2024-08-30,John Doe,Online
+Honor 20s Pro 5G,Good performance but feels a bit bulky.,audio_files/Honor 20s Pro 5G.mp3,3,2024-09-01,Karen White,In-store
+Honor V30 Pro 5G,Great camera features but battery drains quickly.,audio_files/Honor V30 Pro 5G.mp3,3,2024-09-05,Michael Johnson,App
+Honor 8A Pro,Basic features but decent for everyday tasks.,audio_files/Honor 8A Pro.mp3,4,2024-09-10,Alice Johnson,Online
+Honor 20 Lite 5G,Good for casual use but performance is average.,audio_files/Honor 20 Lite 5G.mp3,2,2024-09-15,Kevin Thomas,In-store
+Honor 9X Lite 5G,Affordable but very basic for heavy use.,audio_files/Honor 9X Lite 5G.mp3,3,2024-09-20,Nora White,App
+Honor Magic 3 Lite,Top-notch performance but lacks some features.,audio_files/Honor Magic 3 Lite.mp3,3,2024-09-25,Jessica Wilson,Online
+Honor 10C Pro,Decent camera but performance is lacking.,audio_files/Honor 10C Pro.mp3,2,2024-09-30,John Doe,In-store
+Honor 10X 5G,Good design but limited performance.,audio_files/Honor 10X 5G.mp3,3,2024-10-01,Karen White,App
+Honor V40 5G,Excellent camera and features but heavy.,audio_files/Honor V40 5G.mp3,4,2024-10-05,Michael Johnson,In-store
+Honor 9A Pro 5G,Good performance but outdated.,audio_files/Honor 9A Pro 5G.mp3,3,2024-10-10,Alice Johnson,App
+Honor 20 Pro Lite,Stylish design but battery life is average.,audio_files/Honor 20 Pro Lite.mp3,2,2024-10-15,Kevin Thomas,Online
+Honor 8X Max Lite,"Good value for money, but lacks some features.",audio_files/Honor 8X Max Lite.mp3,3,2024-10-20,Nora Brown,In-store
+Honor Play 4,Affordable but very basic for heavy use.,audio_files/Honor Play 4.mp3,3,2024-10-25,Jessica Wilson,App
+Moto G Power 2023,Great battery life but average performance for heavy tasks.,audio_files/Moto G Power 2023.mp3,3,2024-01-01,John Doe,Online
+Moto G Stylus 5G,"Stylus feature is useful, but battery life is average.",audio_files/Moto G Stylus 5G.mp3,2,2024-01-05,Jane Smith,In-store
+Moto Edge 30,"Excellent performance and great camera, highly recommended.",audio_files/Moto Edge 30.mp3,5,2024-01-10,Emily Johnson,Online
+Moto G Play (2023),"Decent phone for the price, but lacks features.",audio_files/Moto G Play (2023).mp3,3,2024-01-15,Michael Brown,App
+Moto G51 5G,"Good budget 5G phone, but camera quality could be better.",audio_files/Moto G51 5G.mp3,4,2024-01-20,Sarah Davis,In-store
+Moto Edge 20,"Stylish design and solid performance, but battery life isn't great.",audio_files/Moto Edge 20.mp3,3,2024-01-25,David Wilson,Online
+Moto E 2020,"Basic phone for calls and texts, but not for heavy use.",audio_files/Moto E 2020.mp3,3,2024-01-30,Linda Martinez,App
+Moto G9 Power,Great battery but feels bulky and heavy.,audio_files/Moto G9 Power.mp3,2,2024-02-02,Chris Garcia,Online
+Moto Z4,"Good modular design, but software updates are slow.",audio_files/Moto Z4.mp3,3,2024-02-05,Alice Lee,In-store
+Moto G Fast,Affordable with decent performance for basic tasks.,audio_files/Moto G Fast.mp3,4,2024-02-10,Kevin Thomas,Online
+Moto G200,"Excellent specs for the price, but software can be laggy.",audio_files/Moto G200.mp3,3,2024-02-15,Nora White,In-store
+Moto One 5G Ace,Good performance but camera could be better.,audio_files/Moto One 5G Ace.mp3,4,2024-02-20,Joshua Harris,App
+Moto G8,Solid phone but lacks some modern features.,audio_files/Moto G8.mp3,3,2024-02-25,Amy Davis,Online
+Moto Edge Plus,Flagship performance but very expensive.,audio_files/Moto Edge Plus.mp3,1,2024-03-01,Michael Johnson,In-store
+Moto E7,Basic features but reliable for everyday tasks.,audio_files/Moto E7.mp3,4,2024-03-05,Jessica Wilson,App
+Moto G7,Outdated design but still decent for light use.,audio_files/Moto G7.mp3,3,2024-03-10,James Taylor,Online
+Moto G8 Power,Excellent battery life but performance is just okay.,audio_files/Moto G8 Power.mp3,4,2024-03-15,Emily White,In-store
+Moto Z3 Play,Good design but feels outdated now.,audio_files/Moto Z3 Play.mp3,3,2024-03-20,Chris Brown,App
+Moto G Pro,Great for basic tasks but lacks advanced features.,audio_files/Moto G Pro.mp3,2,2024-03-25,Linda Green,Online
+Moto Edge 20 Lite,Good mid-range option but camera performance is average.,audio_files/Moto Edge 20 Lite.mp3,2,2024-03-30,Robert Harris,In-store
+Moto G60,"Decent performance with good battery life, but bulky.",audio_files/Moto G60.mp3,4,2024-04-01,Alice Davis,App
+Moto G Stylus 2022,Good design and performance but feels a bit heavy.,audio_files/Moto G Stylus 2022.mp3,3,2024-04-05,John White,Online
+Moto E 2021,Basic phone suitable for light users.,audio_files/Moto E 2021.mp3,3,2024-04-10,Karen White,In-store
+Moto G Play,Good entry-level phone but lacks features.,audio_files/Moto G Play.mp3,3,2024-04-15,Sarah Davis,App
+Moto G8 Power Lite,Affordable but basic features.,audio_files/Moto G8 Power Lite.mp3,3,2024-04-20,Jessica Martin,Online
+Moto Edge 30 Fusion,Top-notch performance with great design.,audio_files/Moto Edge 30 Fusion.mp3,5,2024-04-25,Kevin Thomas,In-store
+Moto E6,Basic features but good for calls and texts.,audio_files/Moto E6.mp3,4,2024-04-30,Nora Brown,App
+Moto G 5G (2022),Good performance but camera quality is just okay.,audio_files/Moto G 5G (2022).mp3,4,2024-05-01,Michael Johnson,Online
+Moto G62,Decent budget phone with good battery life.,audio_files/Moto G62.mp3,4,2024-05-05,Alice Johnson,In-store
+Moto Edge 30 Neo,Stylish design but average performance.,audio_files/Moto Edge 30 Neo.mp3,2,2024-05-10,Kevin Thomas,App
+Moto G70,Good performance but feels a bit heavy.,audio_files/Moto G70.mp3,3,2024-05-15,Nora White,Online
+Moto X40,"Impressive camera and performance, highly recommended.",audio_files/Moto X40.mp3,5,2024-05-20,Jessica Wilson,In-store
+Moto Z4 Play,Solid design but outdated performance.,audio_files/Moto Z4 Play.mp3,3,2024-05-25,John Doe,App
+Moto G31,Good budget phone but lacks advanced features.,audio_files/Moto G31.mp3,3,2024-05-30,Karen White,Online
+Moto Edge 20 Pro,Great specs but feels too bulky.,audio_files/Moto Edge 20 Pro.mp3,2,2024-06-01,Michael Johnson,In-store
+Moto G40 Fusion,Good value for money but lacks software updates.,audio_files/Moto G40 Fusion.mp3,2,2024-06-05,Alice Lee,App
+Moto E7 Plus,Basic phone that performs well for light tasks.,audio_files/Moto E7 Plus.mp3,4,2024-06-10,Kevin Thomas,Online
+Moto G52,Good mid-range option with decent performance.,audio_files/Moto G52.mp3,4,2024-06-15,Nora White,In-store
+Moto G Play 2022,Affordable but basic performance.,audio_files/Moto G Play 2022.mp3,3,2024-06-20,Jessica Wilson,App
+Moto Edge 20 Lite 5G,Solid performance but software is outdated.,audio_files/Moto Edge 20 Lite 5G.mp3,2,2024-06-25,John Doe,Online
+Moto G51 5G (2019),Good performance but feels heavy.,audio_files/Moto G51 5G (2019).mp3,4,2024-06-30,Karen White,In-store
+Moto G82,Excellent camera but battery life is average.,audio_files/Moto G82.mp3,2,2024-07-01,Michael Johnson,App
+Moto E7i,Good for basic tasks but lacks features.,audio_files/Moto E7i.mp3,2,2024-07-05,Alice Johnson,Online
+Moto G200 5G,Flagship performance but camera could be better.,audio_files/Moto G200 5G.mp3,3,2024-07-10,Kevin Thomas,In-store
+Moto Z3,Stylish design but feels outdated now.,audio_files/Moto Z3.mp3,2,2024-07-15,Nora Brown,App
+Moto G8+,Good budget option but performance is just okay.,audio_files/Moto G8+.mp3,3,2024-07-20,Jessica Wilson,In-store
+Moto Edge S,"Great value for performance, highly recommended.",audio_files/Moto Edge S.mp3,5,2024-07-25,John Doe,App
+Moto G62 5G,Good budget phone with decent specs.,audio_files/Moto G62 5G.mp3,4,2024-07-30,Karen White,Online
+Moto G70 5G,Good performance but battery drains quickly.,audio_files/Moto G70 5G.mp3,2,2024-08-01,Michael Johnson,In-store
+Moto G60 5G,Excellent battery life but software updates are slow.,audio_files/Moto G60 5G.mp3,2,2024-08-05,Alice Johnson,App
+Moto G Play 5G,Solid performance for casual use.,audio_files/Moto G Play 5G.mp3,4,2024-08-10,Kevin Thomas,Online
+Moto X3,Good camera but performance is lacking.,audio_files/Moto X3.mp3,2,2024-08-15,Nora White,In-store
+Moto Edge 20 5G,Great camera but feels outdated now.,audio_files/Moto Edge 20 5G.mp3,4,2024-08-20,Jessica Wilson,App
+Moto G Stylus 5G 2022,Decent performance but feels a bit heavy.,audio_files/Moto G Stylus 5G 2022.mp3,3,2024-08-25,John Doe,Online
+Moto G99,Good features for the price but lacks software support.,audio_files/Moto G99.mp3,2,2024-08-30,Karen White,In-store
+Moto E5,Basic phone but does its job well.,audio_files/Moto E5.mp3,4,2024-09-01,Michael Johnson,App
+Moto G8 Play,Good battery life but limited performance.,audio_files/Moto G8 Play.mp3,4,2024-09-05,Alice Johnson,Online
+Moto G Pro 5G,Good camera but lacks modern features.,audio_files/Moto G Pro 5G.mp3,2,2024-09-10,Kevin Thomas,In-store
+Moto Edge 20 Pro 5G,Excellent performance and features but heavy.,audio_files/Moto Edge 20 Pro 5G.mp3,4,2024-09-15,Nora White,App
+Moto G10,Affordable but very basic for power users.,audio_files/Moto G10.mp3,3,2024-09-20,Jessica Wilson,In-store
+Moto G4,Old but still a decent phone for basic tasks.,audio_files/Moto G4.mp3,4,2024-09-25,John Doe,App
+Moto Edge 30 Fusion 5G,"Fantastic camera quality and design, highly recommended.",audio_files/Moto Edge 30 Fusion 5G.mp3,5,2024-09-30,Karen White,Online
+Moto Z2 Force,Great features but heavy and expensive.,audio_files/Moto Z2 Force.mp3,3,2024-10-01,Michael Johnson,In-store
+Moto G7 Power,Excellent battery life but feels bulky.,audio_files/Moto G7 Power.mp3,3,2024-10-05,Alice Johnson,App
+Moto E6 Play,"Basic device that does its job, but not for power users.",audio_files/Moto E6 Play.mp3,3,2024-10-10,Kevin Thomas,Online
+Moto G6,Good overall performance but lacks modern features.,audio_files/Moto G6.mp3,3,2024-10-15,Nora White,In-store
+Moto X4,Stylish design but performance is lacking.,audio_files/Moto X4.mp3,2,2024-10-20,Jessica Wilson,App
+Moto G5 Plus,Good camera but feels outdated.,audio_files/Moto G5 Plus.mp3,3,2024-10-25,John Doe,App
+Moto Edge 30 Ultra,Excellent performance but battery life could be better.,audio_files/Moto Edge 30 Ultra.mp3,4,2024-10-30,Karen White,Online
+Realme GT 2 Pro,"Amazing performance with a stunning display, but battery life could be better.",audio_files/Realme GT 2 Pro.mp3,5,2024-01-01,John Doe,Online
+Realme GT Master Edition,"Great camera and design, but software could use improvements.",audio_files/Realme GT Master Edition.mp3,4,2024-01-05,Jane Smith,In-store
+Realme 8 Pro,"Excellent camera quality, but battery life is just average.",audio_files/Realme 8 Pro.mp3,2,2024-01-10,Emily Johnson,Online
+Realme 9i,"Good performance for the price, but lacks premium features.",audio_files/Realme 9i.mp3,3,2024-01-15,Michael Brown,App
+Realme Narzo 30,Decent budget phone but not suitable for heavy gaming.,audio_files/Realme Narzo 30.mp3,2,2024-01-20,Sarah Davis,In-store
+Realme 9,Good overall performance but feels a bit bulky.,audio_files/Realme 9.mp3,4,2024-01-25,David Wilson,Online
+Realme C25,Affordable with decent performance but very basic.,audio_files/Realme C25.mp3,3,2024-01-30,Linda Martinez,App
+Realme C21,"Basic features, but decent for everyday tasks.",audio_files/Realme C21.mp3,4,2024-02-02,Chris Garcia,Online
+Realme 7 Pro,Fantastic display and camera but heavy.,audio_files/Realme 7 Pro.mp3,4,2024-02-05,Alice Lee,In-store
+Realme X7,Great value for money but lacks some features.,audio_files/Realme X7.mp3,2,2024-02-10,Kevin Thomas,Online
+Realme X50 Pro,"Impressive performance with good camera, but feels bulky.",audio_files/Realme X50 Pro.mp3,4,2024-02-15,Nora White,In-store
+Realme 8,Good performance but software updates are slow.,audio_files/Realme 8.mp3,3,2024-02-20,Joshua Harris,App
+Realme GT,Great gaming performance but battery drains quickly.,audio_files/Realme GT.mp3,2,2024-02-25,Amy Davis,Online
+Realme Narzo 50,Decent budget device but not suitable for heavy use.,audio_files/Realme Narzo 50.mp3,2,2024-03-01,Michael Johnson,In-store
+Realme C11,Basic smartphone suitable for light users.,audio_files/Realme C11.mp3,3,2024-03-05,Jessica Wilson,App
+Realme 9 Pro,Good camera but average performance.,audio_files/Realme 9 Pro.mp3,3,2024-03-10,James Taylor,Online
+Realme X3,Stylish design but software feels outdated.,audio_files/Realme X3.mp3,2,2024-03-15,Emily White,In-store
+Realme GT Neo 2,Excellent performance with good camera capabilities.,audio_files/Realme GT Neo 2.mp3,5,2024-03-20,Chris Brown,App
+Realme 7,Good features for the price but feels outdated.,audio_files/Realme 7.mp3,3,2024-03-25,Linda Green,Online
+Realme 5 Pro,Great camera quality but battery life is average.,audio_files/Realme 5 Pro.mp3,2,2024-03-30,Robert Harris,In-store
+Realme Narzo 30 Pro,Solid mid-range phone but feels heavy.,audio_files/Realme Narzo 30 Pro.mp3,3,2024-04-01,Alice Davis,App
+Realme 6,Good overall performance but battery life could be better.,audio_files/Realme 6.mp3,4,2024-04-05,John White,Online
+Realme 8 5G,"Great value for money, but software updates are slow.",audio_files/Realme 8 5G.mp3,2,2024-04-10,Karen White,In-store
+Realme 9 5G,Good design and performance but feels a bit bulky.,audio_files/Realme 9 5G.mp3,3,2024-04-15,Sarah Davis,App
+Realme C3,Basic features but handles calls and texts well.,audio_files/Realme C3.mp3,4,2024-04-20,Jessica Martin,Online
+Realme 9i 5G,Decent performance but limited features.,audio_files/Realme 9i 5G.mp3,3,2024-04-25,Kevin Thomas,In-store
+Realme 7i,Good for everyday use but lacks advanced features.,audio_files/Realme 7i.mp3,3,2024-04-30,Nora Brown,App
+Realme Narzo 30A,Affordable but very basic for heavy use.,audio_files/Realme Narzo 30A.mp3,3,2024-05-01,Michael Johnson,Online
+Realme C35,Good camera for casual use but performance is lacking.,audio_files/Realme C35.mp3,2,2024-05-05,Alice Johnson,In-store
+Realme 5i,Basic phone suitable for light users.,audio_files/Realme 5i.mp3,3,2024-05-10,Kevin Thomas,App
+Realme GT 2,Excellent performance but feels heavy.,audio_files/Realme GT 2.mp3,2,2024-05-15,Nora White,Online
+Realme X50,Stylish design but battery life is just average.,audio_files/Realme X50.mp3,2,2024-05-20,Jessica Wilson,In-store
+Realme 9i 5G 2019,Good performance for the price but feels outdated.,audio_files/Realme 9i 5G 2019.mp3,3,2024-05-25,John Doe,App
+Realme C12,Budget-friendly but lacks premium features.,audio_files/Realme C12.mp3,3,2024-05-30,Karen White,Online
+Realme 9 Pro+,Top-notch performance with excellent camera capabilities.,audio_files/Realme 9 Pro+.mp3,5,2024-06-01,Michael Johnson,In-store
+Realme 7 5G,Great performance and camera but battery life could be better.,audio_files/Realme 7 5G.mp3,4,2024-06-05,Alice Lee,App
+Realme Narzo 50A,"Basic phone that does its job, but slow for heavy use.",audio_files/Realme Narzo 50A.mp3,3,2024-06-10,Sarah Davis,Online
+Realme 8i,Good for casual use but performance is average.,audio_files/Realme 8i.mp3,2,2024-06-15,David Wilson,In-store
+Realme GT Master,Stylish design with good performance for the price.,audio_files/Realme GT Master.mp3,4,2024-06-20,Emily White,App
+Realme 7 Pro 5G,Great camera but feels a bit bulky.,audio_files/Realme 7 Pro 5G.mp3,3,2024-06-25,Chris Garcia,Online
+Realme 9 Pro 5G,Good value for the price but lacks some features.,audio_files/Realme 9 Pro 5G.mp3,3,2024-06-30,Karen White,In-store
+Realme V11,Basic smartphone suitable for light tasks.,audio_files/Realme V11.mp3,3,2024-07-01,John Doe,App
+Realme GT Neo,"Excellent performance and display, highly recommended.",audio_files/Realme GT Neo.mp3,5,2024-07-05,Kevin Thomas,Online
+Realme C25Y,"Good camera and decent performance, but heavy.",audio_files/Realme C25Y.mp3,4,2024-07-10,Nora White,In-store
+Realme 8 5G 2018,Good design but average camera performance.,audio_files/Realme 8 5G 2018.mp3,2,2024-07-15,Jessica Wilson,App
+Realme 7i 5G,Decent performance but not suitable for heavy tasks.,audio_files/Realme 7i 5G.mp3,2,2024-07-20,Michael Johnson,Online
+Realme Narzo 50i,Basic features but decent for everyday tasks.,audio_files/Realme Narzo 50i.mp3,4,2024-07-25,Alice Johnson,In-store
+Realme 9A,Budget-friendly but very basic for power users.,audio_files/Realme 9A.mp3,3,2024-07-30,Kevin Thomas,App
+Realme V15,Great camera but performance is average.,audio_files/Realme V15.mp3,2,2024-08-01,Nora White,Online
+Realme GT 2 Explorer,Top-tier features but price is high.,audio_files/Realme GT 2 Explorer.mp3,3,2024-08-05,Jessica Martin,In-store
+Realme 5s,"Good for basic tasks, but not suitable for heavy users.",audio_files/Realme 5s.mp3,2,2024-08-10,John Doe,App
+Realme C21Y,Affordable but lacks modern features.,audio_files/Realme C21Y.mp3,2,2024-08-15,Karen White,Online
+Realme 8i 5G,Good features for the price but feels outdated.,audio_files/Realme 8i 5G.mp3,3,2024-08-20,David Wilson,In-store
+Realme 9 Pro+ 5G,Good performance but feels heavy.,audio_files/Realme 9 Pro+ 5G.mp3,4,2024-08-25,Emily White,App
+Realme 7+,Good overall performance but lacks some features.,audio_files/Realme 7+.mp3,3,2024-09-01,Alice Lee,Online
+Realme 8+,Great value for money but battery life is just average.,audio_files/Realme 8+.mp3,2,2024-09-05,Kevin Thomas,In-store
+Realme Narzo 30 Pro 5G,Great gaming performance but battery drains quickly.,audio_files/Realme Narzo 30 Pro 5G.mp3,2,2024-09-10,Nora White,App
+Realme V30,Solid phone but lacks premium features.,audio_files/Realme V30.mp3,3,2024-09-15,Michael Johnson,Online
+Realme 9i 5G (2019),Decent camera but performance is lacking.,audio_files/Realme 9i 5G (2019).mp3,3,2024-09-20,Jessica Wilson,In-store
+Realme GT 5,Outstanding performance with an impressive display.,audio_files/Realme GT 5.mp3,5,2024-09-25,John Doe,App
+Realme 9 Pro Max,Excellent camera quality but bulky design.,audio_files/Realme 9 Pro Max.mp3,4,2024-09-30,Karen White,Online
+Realme 5 Pro 5G,Good design but average performance.,audio_files/Realme 5 Pro 5G.mp3,3,2024-10-01,David Wilson,In-store
+Realme 8S,Stylish design but limited features.,audio_files/Realme 8S.mp3,3,2024-10-05,Sarah Davis,App
+Realme 9 5G (2020),Good battery life but lacks some advanced features.,audio_files/Realme 9 5G (2020).mp3,3,2024-10-10,Kevin Thomas,Online
+Realme C55,Good for everyday use but lacks premium features.,audio_files/Realme C55.mp3,3,2024-10-15,Nora White,In-store
+Realme GT Neo 3,Great performance but expensive.,audio_files/Realme GT Neo 3.mp3,5,2024-10-20,Michael Johnson,App
+Realme X9,Good for casual use but performance is average.,audio_files/Realme X9.mp3,2,2024-10-25,Alice Johnson,Online
+Realme 6 Pro,Solid performance but heavy for daily use.,audio_files/Realme 6 Pro.mp3,3,2024-10-30,John Doe,In-store
+Realme V20,Budget-friendly but very basic for heavy use.,audio_files/Realme V20.mp3,3,2024-11-01,Karen White,App
+Realme 9 SE,Good features but feels outdated.,audio_files/Realme 9 SE.mp3,3,2024-11-05,Sarah Davis,Online
+Realme 8 5G (2018),Good camera but performance is average.,audio_files/Realme 8 5G (2018).mp3,2,2024-11-10,David Wilson,In-store
+Google Pixel 6,"Amazing camera quality and smooth performance, but battery life could be better.",audio_files/Google Pixel 6.mp3,4,2024-01-01,John Doe,Online
+Google Pixel 6 Pro,"Excellent performance and fantastic camera, but it's a bit heavy.",audio_files/Google Pixel 6 Pro.mp3,5,2024-01-05,Jane Smith,In-store
+Google Pixel 5,"Good performance with a great camera, but feels outdated now.",audio_files/Google Pixel 5.mp3,4,2024-01-10,Emily Johnson,Online
+Google Pixel 4a,"Affordable and reliable, but lacks some premium features.",audio_files/Google Pixel 4a.mp3,3,2024-01-15,Michael Brown,App
+Google Pixel 4,Great camera but battery life is just average.,audio_files/Google Pixel 4.mp3,2,2024-01-20,Sarah Davis,In-store
+Google Pixel 3a,Solid mid-range phone but not suitable for heavy multitasking.,audio_files/Google Pixel 3a.mp3,3,2024-01-25,David Wilson,Online
+Google Pixel 3,Good overall performance but feels a bit outdated.,audio_files/Google Pixel 3.mp3,3,2024-01-30,Linda Martinez,App
+Google Pixel 2,Decent performance but lacks modern features.,audio_files/Google Pixel 2.mp3,2,2024-02-02,Chris Garcia,Online
+Google Pixel 2 XL,"Great display and camera, but battery drains quickly.",audio_files/Google Pixel 2 XL.mp3,3,2024-02-05,Alice Lee,In-store
+Google Pixel 7,"Incredible camera and performance, worth the price.",audio_files/Google Pixel 7.mp3,5,2024-02-10,Kevin Thomas,Online
+Google Pixel 7 Pro,"Excellent features and camera quality, but pricey.",audio_files/Google Pixel 7 Pro.mp3,5,2024-02-15,Nora White,In-store
+Google Pixel 5a,"Good camera and performance, but feels a bit basic.",audio_files/Google Pixel 5a.mp3,3,2024-02-20,Joshua Harris,App
+Google Pixel 6a,Great value for money with decent performance.,audio_files/Google Pixel 6a.mp3,4,2024-02-25,Amy Davis,Online
+Google Pixel 4 XL,Fantastic camera but heavy and bulky.,audio_files/Google Pixel 4 XL.mp3,3,2024-03-01,Michael Johnson,In-store
+Google Pixel 3 XL,"Still a great phone for basic tasks, but battery life is an issue.",audio_files/Google Pixel 3 XL.mp3,3,2024-03-05,Jessica Wilson,App
+Google Pixel 5 XL,"Good for photography enthusiasts, but performance could be better.",audio_files/Google Pixel 5 XL.mp3,4,2024-03-10,James Taylor,Online
+Google Pixel 6a 5G,Good performance but lacks some advanced features.,audio_files/Google Pixel 6a 5G.mp3,2,2024-03-15,Emily White,In-store
+Google Pixel 7a,Solid performance but feels a bit heavy.,audio_files/Google Pixel 7a.mp3,3,2024-03-20,Chris Brown,App
+Google Pixel 2a,Basic features but handles calls and texts well.,audio_files/Google Pixel 2a.mp3,4,2024-03-25,Linda Green,Online
+Google Pixel 1,Old model but still decent for basic tasks.,audio_files/Google Pixel 1.mp3,3,2024-03-30,Robert Harris,In-store
+Google Pixel 3a XL,Good overall phone but battery life could be better.,audio_files/Google Pixel 3a XL.mp3,4,2024-04-01,Alice Davis,App
+Google Pixel 4a 5G,Great budget option with 5G support.,audio_files/Google Pixel 4a 5G.mp3,4,2024-04-05,John White,Online
+Google Pixel 5 5G,Excellent camera and performance but feels heavy.,audio_files/Google Pixel 5 5G.mp3,3,2024-04-10,Karen White,In-store
+Google Pixel 2 XL 5G,Good performance but lacks some modern features.,audio_files/Google Pixel 2 XL 5G.mp3,3,2024-04-15,Sarah Davis,App
+Google Pixel 4 XL 5G,Fantastic camera but battery life could be better.,audio_files/Google Pixel 4 XL 5G.mp3,4,2024-04-20,Jessica Martin,Online
+Google Pixel 3 XL 5G,Great features but feels a bit outdated.,audio_files/Google Pixel 3 XL 5G.mp3,3,2024-04-25,Kevin Thomas,In-store
+Google Pixel 6 Pro 5G,"Incredible performance and camera, highly recommended.",audio_files/Google Pixel 6 Pro 5G.mp3,5,2024-04-30,Nora Brown,App
+Google Pixel 7 Pro 5G,"Amazing camera and performance, but quite heavy.",audio_files/Google Pixel 7 Pro 5G.mp3,5,2024-05-01,Michael Johnson,Online
+Google Pixel 8,"Fantastic performance with a great camera, but a bit expensive.",audio_files/Google Pixel 8.mp3,4,2024-05-05,Alice Johnson,In-store
+Google Pixel 8 Pro,"Top-notch camera quality and features, but bulky.",audio_files/Google Pixel 8 Pro.mp3,5,2024-05-10,David Wilson,App
+Google Pixel 4a (2019),Good for everyday use but lacks some advanced features.,audio_files/Google Pixel 4a (2019).mp3,3,2024-05-15,Emily White,Online
+Google Pixel 6 (2020),"Solid performance and great camera, but battery life needs improvement.",audio_files/Google Pixel 6 (2020).mp3,4,2024-05-20,Chris Brown,In-store
+Google Pixel 5a (2022),Good camera but basic performance.,audio_files/Google Pixel 5a (2022).mp3,3,2024-05-25,Linda Green,App
+Google Pixel 7 (2023),"Amazing performance and camera quality, but expensive.",audio_files/Google Pixel 7 (2023).mp3,5,2024-06-01,John Doe,Online
+Google Pixel 8a (2023),Great value for money but lacks premium features.,audio_files/Google Pixel 8a (2023).mp3,3,2024-06-05,Alice Johnson,In-store
+Google Pixel 6a (2021),Good performance but feels a bit outdated.,audio_files/Google Pixel 6a (2021).mp3,3,2024-06-10,Michael Brown,App
+Google Pixel 8 Pro A(2023),Exceptional camera quality but heavy and bulky.,audio_files/Google Pixel 8 Pro A(2023).mp3,5,2024-06-15,Sarah Davis,Online
+Google Pixel 7 P(2022),Good overall phone but battery life is just average.,audio_files/Google Pixel 7 P(2022).mp3,3,2024-06-20,Jessica Wilson,In-store
+Google Pixel 6 Pro (2022),Great camera but feels outdated now.,audio_files/Google Pixel 6 Pro (2022).mp3,3,2024-06-25,Kevin Thomas,App
+Google Pixel 5 (2021),Good camera but battery life could be better.,audio_files/Google Pixel 5 (2021).mp3,3,2024-07-01,Nora White,Online
+Google Pixel 3a XL (2020),Basic features but decent for everyday tasks.,audio_files/Google Pixel 3a XL (2020).mp3,4,2024-07-05,Michael Johnson,In-store
+Google Pixel 4 XL (2020),Great performance but feels heavy.,audio_files/Google Pixel 4 XL (2020).mp3,4,2024-07-10,Alice Lee,App
+Google Pixel 4 (2020),Good camera and performance but battery drains quickly.,audio_files/Google Pixel 4 (2020).mp3,2,2024-07-15,Chris Garcia,Online
+Google Pixel 2 (2017),Decent phone but outdated now.,audio_files/Google Pixel 2 (2017).mp3,3,2024-07-20,Linda Green,In-store
+Google Pixel 2 XL (2017),Good overall phone but battery life is an issue.,audio_files/Google Pixel 2 XL (2017).mp3,2,2024-07-25,Robert Harris,App
+Google Pixel 3 (2018),Good for basic tasks but lacks advanced features.,audio_files/Google Pixel 3 (2018).mp3,2,2024-07-30,Nora White,Online
+Google Pixel 3 XL (2018),Excellent camera but feels outdated.,audio_files/Google Pixel 3 XL (2018).mp3,2,2024-08-01,Emily Johnson,In-store
+Google Pixel 4a (2020),Good overall performance but lacks some features.,audio_files/Google Pixel 4a (2020).mp3,3,2024-08-05,Michael Brown,App
+Google Pixel 6 A(2021),Great camera but feels a bit heavy.,audio_files/Google Pixel 6 A(2021).mp3,3,2024-08-10,John Doe,Online
+Google Pixel 6 Pro (2020),"Amazing camera and performance, but bulky.",audio_files/Google Pixel 6 Pro (2020).mp3,3,2024-08-15,Karen White,In-store
+Google Pixel 5 (2022),Good for everyday use but battery drains quickly.,audio_files/Google Pixel 5 (2022).mp3,3,2024-08-20,Sarah Davis,App
+Google Pixel 5a (2021),Affordable with good camera quality.,audio_files/Google Pixel 5a (2021).mp3,4,2024-08-25,Jessica Wilson,Online
+Google Pixel 6a (2022),Solid performance but feels outdated now.,audio_files/Google Pixel 6a (2022).mp3,3,2024-08-30,Kevin Thomas,In-store
+Google Pixel 7 Pro (2022),Exceptional performance but pricey.,audio_files/Google Pixel 7 Pro (2022).mp3,3,2024-09-01,Nora White,App
+Google Pixel 8 (2023),Good performance but battery life could be better.,audio_files/Google Pixel 8 (2023).mp3,4,2024-09-05,Michael Johnson,Online
+Google Pixel 8 Pro (2023),Great camera and design but feels a bit heavy.,audio_files/Google Pixel 8 Pro (2023).mp3,5,2024-09-10,Alice Lee,In-store
+Google Pixel 7a (2023),Solid mid-range phone but feels basic.,audio_files/Google Pixel 7a (2023).mp3,3,2024-09-15,Chris Garcia,App
+Google Pixel 6 (2021),Decent performance but battery life is average.,audio_files/Google Pixel 6 (2021).mp3,3,2024-09-20,Linda Green,In-store
+Google Pixel 6 Pro (2021),Top-notch camera but feels outdated now.,audio_files/Google Pixel 6 Pro (2021).mp3,3,2024-09-25,Robert Harris,App
+Google Pixel 7 (2022),Good overall performance but camera quality could be better.,audio_files/Google Pixel 7 (2022).mp3,4,2024-09-30,Nora White,Online
+Google Pixel 8 P(2023),Great camera and performance but lacks modern features.,audio_files/Google Pixel 8 P(2023).mp3,3,2024-10-01,John Doe,In-store
+Google Pixel 8 Pro P(2023),Exceptional performance with an amazing display.,audio_files/Google Pixel 8 Pro P(2023).mp3,3,2024-10-05,Karen White,App
+Google Pixel 5 (2020),Good phone for its price but lacks premium features.,audio_files/Google Pixel 5 (2020).mp3,3,2024-10-10,Sarah Davis,Online
+Google Pixel 4a 2020,Great budget phone but performance is limited.,audio_files/Google Pixel 4a 2020.mp3,3,2024-10-15,Jessica Wilson,In-store
+Google Pixel 6a 2022,Good overall camera but average performance.,audio_files/Google Pixel 6a 2022.mp3,3,2024-10-20,Kevin Thomas,App
+Google Pixel 7 Pro 2022,Amazing camera but battery life is an issue.,audio_files/Google Pixel 7 Pro 2022.mp3,3,2024-10-25,Nora White,Online
+Google Pixel 8 a(2023),Good performance and camera but feels bulky.,audio_files/Google Pixel 8 a(2023).mp3,3,2024-10-30,Michael Johnson,In-store
+Google Pixel 8 Pro A 2023,Great design and camera features but pricey.,audio_files/Google Pixel 8 Pro A 2023.mp3,3,2024-11-01,Alice Lee,App
+Google Pixel 5 A (2020),Good value for money but outdated now.,audio_files/Google Pixel 5 A (2020).mp3,3,2024-11-05,Chris Garcia,Online
+Sony Xperia 1 IV,"Exceptional camera performance and display, but very expensive.",audio_files/Sony Xperia 1 IV.mp3,3,2024-01-01,John Doe,Online
+Sony Xperia 5 IV,"Great balance of performance and size, but battery life could be better.",audio_files/Sony Xperia 5 IV.mp3,4,2024-01-05,Jane Smith,In-store
+Sony Xperia 10 IV,"Good mid-range phone with solid performance, but feels a bit bulky.",audio_files/Sony Xperia 10 IV.mp3,3,2024-01-10,Emily Johnson,Online
+Sony Xperia 1 III,"Excellent media consumption device, but the price is high.",audio_files/Sony Xperia 1 III.mp3,3,2024-01-15,Michael Brown,App
+Sony Xperia 5 III,"Great camera and gaming performance, but battery drains quickly.",audio_files/Sony Xperia 5 III.mp3,3,2024-01-20,Sarah Davis,In-store
+Sony Xperia 10 III,Decent performance but lacks some features found in competitors.,audio_files/Sony Xperia 10 III.mp3,2,2024-01-25,David Wilson,Online
+Sony Xperia L4,Affordable but very basic for heavy users.,audio_files/Sony Xperia L4.mp3,3,2024-01-30,Linda Martinez,App
+Sony Xperia 1 II,Fantastic display and camera but feels heavy.,audio_files/Sony Xperia 1 II.mp3,4,2024-02-02,Chris Garcia,Online
+Sony Xperia 5 II,Good compact phone but software can be slow.,audio_files/Sony Xperia 5 II.mp3,3,2024-02-05,Alice Lee,In-store
+Sony Xperia 10 II,Solid budget option but lacks performance for gaming.,audio_files/Sony Xperia 10 II.mp3,2,2024-02-10,Kevin Thomas,Online
+Sony Xperia XZ3,Old model but still has a good camera.,audio_files/Sony Xperia XZ3.mp3,4,2024-02-15,Nora White,In-store
+Sony Xperia 8,Decent for basic tasks but feels outdated.,audio_files/Sony Xperia 8.mp3,2,2024-02-20,Joshua Harris,App
+Sony Xperia 1,Stylish design but battery life is just average.,audio_files/Sony Xperia 1.mp3,2,2024-02-25,Amy Davis,Online
+Sony Xperia Z5,Good camera but performance is lacking now.,audio_files/Sony Xperia Z5.mp3,2,2024-03-01,Michael Johnson,In-store
+Sony Xperia XA2,Good design but outdated specs.,audio_files/Sony Xperia XA2.mp3,3,2024-03-05,Jessica Wilson,App
+Sony Xperia XZ2,Nice features but battery life could be better.,audio_files/Sony Xperia XZ2.mp3,4,2024-03-10,James Taylor,Online
+Sony Xperia XZ2 Compact,Good performance but small battery.,audio_files/Sony Xperia XZ2 Compact.mp3,4,2024-03-15,Emily White,In-store
+Sony Xperia L2,Basic features but decent for everyday tasks.,audio_files/Sony Xperia L2.mp3,4,2024-03-20,Chris Brown,App
+Sony Xperia 10,Good value for money but lacks modern features.,audio_files/Sony Xperia 10.mp3,2,2024-03-25,Linda Green,Online
+Sony Xperia XZ1,Good overall phone but feels outdated now.,audio_files/Sony Xperia XZ1.mp3,3,2024-03-30,Robert Harris,In-store
+Sony Xperia XA1,Affordable but very basic for heavy use.,audio_files/Sony Xperia XA1.mp3,3,2024-04-01,Alice Davis,App
+Sony Xperia Z3 Compact,Stylish design but lacks performance.,audio_files/Sony Xperia Z3 Compact.mp3,2,2024-04-05,John White,Online
+Sony Xperia XZ Premium,Great display and camera but feels bulky.,audio_files/Sony Xperia XZ Premium.mp3,4,2024-04-10,Karen White,In-store
+Sony Xperia 5,Good performance and features but battery could be better.,audio_files/Sony Xperia 5.mp3,4,2024-04-15,Sarah Davis,App
+Sony Xperia XZ,Decent performance but outdated.,audio_files/Sony Xperia XZ.mp3,2,2024-04-20,Jessica Martin,Online
+Sony Xperia XA Ultra,Good camera but limited performance.,audio_files/Sony Xperia XA Ultra.mp3,3,2024-04-25,Kevin Thomas,In-store
+Sony Xperia 1 V,Exceptional photography capabilities but pricey.,audio_files/Sony Xperia 1 V.mp3,3,2024-04-30,Nora White,App
+Sony Xperia 5 V,Great compact phone with good battery life.,audio_files/Sony Xperia 5 V.mp3,4,2024-05-01,Michael Johnson,Online
+Sony Xperia 10 V,Decent performance but lacks features found in rivals.,audio_files/Sony Xperia 10 V.mp3,2,2024-05-05,Alice Lee,In-store
+Sony Xperia L3,Basic phone that handles calls and texts well.,audio_files/Sony Xperia L3.mp3,4,2024-05-10,David Wilson,App
+Sony Xperia 1 IIa,Great display but outdated features.,audio_files/Sony Xperia 1 IIa.mp3,4,2024-05-15,Emily Johnson,Online
+Sony Xperia XA3,Good entry-level phone but limited features.,audio_files/Sony Xperia XA3.mp3,4,2024-05-20,Karen White,In-store
+Sony Xperia Z4,"Old model, not recommended for new buyers.",audio_files/Sony Xperia Z4.mp3,1,2024-05-25,Chris Garcia,App
+Sony Xperia 8 Lite,Basic performance but decent for everyday tasks.,audio_files/Sony Xperia 8 Lite.mp3,4,2024-05-30,Linda Martinez,Online
+Sony Xperia 1 II Pro,Fantastic camera and media capabilities.,audio_files/Sony Xperia 1 II Pro.mp3,5,2024-06-01,John Doe,In-store
+Sony Xperia 5 II Pro,Good balance of performance and features.,audio_files/Sony Xperia 5 II Pro.mp3,4,2024-06-05,Alice Johnson,App
+Sony Xperia XZ4,Decent but feels outdated compared to newer models.,audio_files/Sony Xperia XZ4.mp3,2,2024-06-10,Kevin Thomas,Online
+Sony Xperia 1 IIIa,Great camera but feels bulky.,audio_files/Sony Xperia 1 IIIa.mp3,3,2024-06-15,Nora White,In-store
+Sony Xperia 5 IIIa,Solid performance but outdated software.,audio_files/Sony Xperia 5 IIIa.mp3,3,2024-06-20,Jessica Wilson,App
+Sony Xperia Z2,Not suitable for power users.,audio_files/Sony Xperia Z2.mp3,2,2024-06-25,Michael Johnson,Online
+Sony Xperia 10 IIa,Good for basic tasks but lacks modern features.,audio_files/Sony Xperia 10 IIa.mp3,2,2024-06-30,Alice Lee,In-store
+Sony Xperia L4a,"Basic phone that does its job, but slow for heavy use.",audio_files/Sony Xperia L4a.mp3,3,2024-07-01,David Wilson,App
+Sony Xperia 1a,Stylish design but performance is lacking.,audio_files/Sony Xperia 1a.mp3,2,2024-07-05,Emily Johnson,Online
+Sony Xperia 5a,Great camera and design but battery life could be better.,audio_files/Sony Xperia 5a.mp3,4,2024-07-10,Karen White,In-store
+Sony Xperia 10a,Decent performance for the price.,audio_files/Sony Xperia 10a.mp3,4,2024-07-15,Chris Brown,App
+Sony Xperia XZ3a,Good overall performance but feels outdated now.,audio_files/Sony Xperia XZ3a.mp3,3,2024-07-20,Linda Green,Online
+Sony Xperia 2z,Fantastic display but lacks modern features.,audio_files/Sony Xperia 2z.mp3,3,2024-07-25,Robert Harris,In-store
+Sony Xperia 5z,Good performance and features but feels heavy.,audio_files/Sony Xperia 5z.mp3,4,2024-07-30,Alice Davis,App
+Sony Xperia 10z,Basic features but decent for everyday tasks.,audio_files/Sony Xperia 10z.mp3,4,2024-08-01,John White,Online
+Sony Xperia L3z,Good value for money but limited features.,audio_files/Sony Xperia L3z.mp3,4,2024-08-05,Karen White,In-store
+Sony Xperia 1i,Excellent camera and display but pricey.,audio_files/Sony Xperia 1i.mp3,5,2024-08-10,Sarah Davis,App
+Sony Xperia 5i,Great compact phone with good battery life.,audio_files/Sony Xperia 5i.mp3,4,2024-08-15,Michael Johnson,Online
+Sony Xperia 10i,Decent performance but lacks features found in rivals.,audio_files/Sony Xperia 10i.mp3,2,2024-08-20,Alice Johnson,In-store
+Sony Xperia Z5a,Good overall phone but feels outdated now.,audio_files/Sony Xperia Z5a.mp3,3,2024-08-25,Kevin Thomas,App
+Sony Xperia XZ2a,Not suitable for heavy users.,audio_files/Sony Xperia XZ2a.mp3,2,2024-08-30,Nora White,Online
+Sony Xperia 1V Pro,Fantastic camera but battery life is average.,audio_files/Sony Xperia 1V Pro.mp3,2,2024-09-01,Jessica Wilson,In-store
+Sony Xperia 5V Pro,Good performance and features but feels heavy.,audio_files/Sony Xperia 5V Pro.mp3,4,2024-09-05,John Doe,App
+Sony Xperia 10V Pro,Decent performance for the price.,audio_files/Sony Xperia 10V Pro.mp3,4,2024-09-10,Karen White,Online
+Sony Xperia L2a,Basic features but decent for everyday tasks.,audio_files/Sony Xperia L2a.mp3,4,2024-09-15,Sarah Davis,In-store
+Sony Xperia 10X,Good value for money but limited features.,audio_files/Sony Xperia 10X.mp3,4,2024-09-20,Michael Johnson,App
+Sony Xperia 1Z,Stylish design but performance is lacking.,audio_files/Sony Xperia 1Z.mp3,2,2024-09-25,Alice Johnson,Online
+Sony Xperia 6Z,Great camera and design but battery life could be better.,audio_files/Sony Xperia 6Z.mp3,3,2024-09-30,Kevin Thomas,In-store
+Sony Xperia 11Z,Decent performance for the price.,audio_files/Sony Xperia 11Z.mp3,3,2024-10-01,Nora White,App
+Sony Xperia 1a Pro,Exceptional camera performance but bulky.,audio_files/Sony Xperia 1a Pro.mp3,3,2024-10-05,John Doe,Online
+Sony Xperia 5a Pro,Good balance of performance and features.,audio_files/Sony Xperia 5a Pro.mp3,4,2024-10-10,Karen White,In-store
+Sony Xperia 10a Pro,Decent but feels outdated compared to newer models.,audio_files/Sony Xperia 10a Pro.mp3,2,2024-10-15,Sarah Davis,App
+LG Wing,Innovative design with great multitasking capabilities but bulky.,audio_files/LG Wing.mp3,4,2024-01-01,John Doe,Online
+LG Velvet,"Sleek design and decent performance, but camera could be better.",audio_files/LG Velvet.mp3,4,2024-01-05,Jane Smith,In-store
+LG V60 ThinQ,Excellent performance with a great camera but a bit heavy.,audio_files/LG V60 ThinQ.mp3,5,2024-01-10,Emily Johnson,Online
+LG G8X ThinQ,Good performance but feels a bit outdated.,audio_files/LG G8X ThinQ.mp3,3,2024-01-15,Michael Brown,App
+LG G8 ThinQ,"Great sound quality and display, but battery life is average.",audio_files/LG G8 ThinQ.mp3,3,2024-01-20,Sarah Davis,In-store
+LG K92 5G,Affordable 5G phone with decent features but limited camera capabilities.,audio_files/LG K92 5G.mp3,4,2024-01-25,David Wilson,Online
+LG Stylo 6,"Stylus is handy, but the performance is just average.",audio_files/LG Stylo 6.mp3,2,2024-01-30,Linda Martinez,App
+LG Q52,"Good mid-range phone, but lacks some modern features.",audio_files/LG Q52.mp3,3,2024-02-02,Chris Garcia,Online
+LG G7 ThinQ,Solid build and performance but battery could last longer.,audio_files/LG G7 ThinQ.mp3,4,2024-02-05,Alice Lee,In-store
+LG K42,Budget-friendly option but performance is lacking.,audio_files/LG K42.mp3,2,2024-02-10,Kevin Thomas,Online
+LG V50 ThinQ,Great camera and performance but heavy.,audio_files/LG V50 ThinQ.mp3,4,2024-02-15,Nora White,In-store
+LG Q31,"Good for basic tasks, but feels a bit slow.",audio_files/LG Q31.mp3,3,2024-02-20,Joshua Harris,App
+LG K62,Good battery life but average performance.,audio_files/LG K62.mp3,3,2024-02-25,Amy Davis,Online
+LG V30,Still a solid phone but starting to show its age.,audio_files/LG V30.mp3,4,2024-03-01,Michael Johnson,In-store
+LG G6,"Good design and features, but outdated now.",audio_files/LG G6.mp3,3,2024-03-05,Jessica Wilson,App
+LG Stylo 5,Affordable but basic features for heavy users.,audio_files/LG Stylo 5.mp3,3,2024-03-10,James Taylor,Online
+LG K51,Budget-friendly but performance is limited.,audio_files/LG K51.mp3,3,2024-03-15,Emily White,In-store
+LG G5,Innovative modular design but performance is lacking.,audio_files/LG G5.mp3,2,2024-03-20,Chris Brown,App
+LG Velvet 5G,Stylish design with great performance but average camera.,audio_files/LG Velvet 5G.mp3,3,2024-03-25,Linda Green,Online
+LG Q70,Good value for the price but lacks premium features.,audio_files/LG Q70.mp3,3,2024-03-30,Robert Harris,In-store
+LG G4,Still a good phone but showing its age.,audio_files/LG G4.mp3,4,2024-04-01,Alice Davis,App
+LG Q8,Good performance for the price but feels a bit heavy.,audio_files/LG Q8.mp3,4,2024-04-05,John White,Online
+LG K22,Basic features but suitable for light users.,audio_files/LG K22.mp3,4,2024-04-10,Karen White,In-store
+LG G8X,Dual screen feature is great but feels bulky.,audio_files/LG G8X.mp3,4,2024-04-15,Sarah Davis,App
+LG V10,Good design but not as powerful as newer models.,audio_files/LG V10.mp3,3,2024-04-20,Jessica Martin,Online
+LG G8,Excellent audio quality but battery could be better.,audio_files/LG G8.mp3,4,2024-04-25,Kevin Thomas,In-store
+LG K40,"Basic phone that handles calls well, but performance is slow.",audio_files/LG K40.mp3,2,2024-04-30,Nora Brown,App
+LG V20,Great design and build quality but feels outdated.,audio_files/LG V20.mp3,3,2024-05-01,Michael Johnson,Online
+LG K8,Affordable but lacks features for heavy users.,audio_files/LG K8.mp3,2,2024-05-05,Alice Johnson,In-store
+LG Q60,Good camera for the price but average performance.,audio_files/LG Q60.mp3,3,2024-05-10,Kevin Thomas,App
+LG G5 SE,Good for basic tasks but not suitable for heavy use.,audio_files/LG G5 SE.mp3,2,2024-05-15,Nora White,Online
+LG V30S,Great camera and performance but feels bulky.,audio_files/LG V30S.mp3,4,2024-05-20,Jessica Wilson,In-store
+LG Stylo 4,"Stylus feature is nice, but overall performance is average.",audio_files/LG Stylo 4.mp3,2,2024-05-25,John Doe,App
+LG Q52 5G,Good mid-range phone but lacks camera features.,audio_files/LG Q52 5G.mp3,3,2024-05-30,Karen White,Online
+LG G3,Once a flagship but now outdated.,audio_files/LG G3.mp3,3,2024-06-01,Sarah Davis,In-store
+LG G8 ThinQ 5G,Solid performance but feels heavy.,audio_files/LG G8 ThinQ 5G.mp3,3,2024-06-05,Michael Johnson,App
+LG Q7,Good design but average performance.,audio_files/LG Q7.mp3,3,2024-06-10,Alice Lee,Online
+LG V40,Great camera but software needs improvement.,audio_files/LG V40.mp3,4,2024-06-15,David Wilson,In-store
+LG K10,Basic phone that handles calls well.,audio_files/LG K10.mp3,4,2024-06-20,Nora Brown,App
+LG Q6,Affordable but very basic for heavy use.,audio_files/LG Q6.mp3,3,2024-06-25,Kevin Thomas,Online
+LG V50,Excellent camera but feels bulky.,audio_files/LG V50.mp3,3,2024-06-30,Alice Johnson,In-store
+LG G4 Stylus,Good performance but outdated now.,audio_files/LG G4 Stylus.mp3,3,2024-07-01,Michael Johnson,App
+LG K30,Basic features but decent for everyday use.,audio_files/LG K30.mp3,4,2024-07-05,Karen White,Online
+LG V20 ThinQ,Good camera but software needs improvement.,audio_files/LG V20 ThinQ.mp3,3,2024-07-10,John Doe,In-store
+LG G6 Plus,Solid performance but battery life could be better.,audio_files/LG G6 Plus.mp3,4,2024-07-15,Nora White,App
+LG K8 2018,Basic but functional for light users.,audio_files/LG K8 2018.mp3,3,2024-07-20,Michael Brown,Online
+LG Stylo 3,Affordable but very basic for heavy use.,audio_files/LG Stylo 3.mp3,3,2024-07-25,Jessica Wilson,In-store
+LG G7 Fit,Decent performance for the price but feels outdated.,audio_files/LG G7 Fit.mp3,2,2024-07-30,Alice Johnson,App
+LG V60,Top performance but a bit too heavy.,audio_files/LG V60.mp3,3,2024-08-01,Kevin Thomas,Online
+LG K40S,Budget-friendly but limited features.,audio_files/LG K40S.mp3,3,2024-08-05,Sarah Davis,In-store
+LG G8 ThinQ Dual Screen,Great design but feels bulky.,audio_files/LG G8 ThinQ Dual Screen.mp3,3,2024-08-10,John Doe,App
+LG Velvet 5G Dual Screen,Sleek design but average performance.,audio_files/LG Velvet 5G Dual Screen.mp3,2,2024-08-15,Karen White,Online
+LG Q9,Good overall phone but feels a bit heavy.,audio_files/LG Q9.mp3,3,2024-08-20,Michael Johnson,In-store
+LG G7,Solid build quality but outdated software.,audio_files/LG G7.mp3,3,2024-08-25,Alice Lee,App
+LG Stylo 5 Plus,"Stylus is handy, but the performance is just average.",audio_files/LG Stylo 5 Plus.mp3,2,2024-08-30,Nora Brown,Online
+LG K22 Plus,Basic phone suitable for light users.,audio_files/LG K22 Plus.mp3,3,2024-09-01,Kevin Thomas,In-store
+LG Q70 5G,Good mid-range option but feels heavy.,audio_files/LG Q70 5G.mp3,3,2024-09-05,John Doe,App
+LG V30 Plus,Good performance but battery life could be better.,audio_files/LG V30 Plus.mp3,4,2024-09-10,Karen White,Online
+LG G8s ThinQ,Great sound quality but battery drains quickly.,audio_files/LG G8s ThinQ.mp3,2,2024-09-15,Michael Johnson,In-store
+LG Stylo 6 Plus,Affordable but lacks some features.,audio_files/LG Stylo 6 Plus.mp3,3,2024-09-20,Alice Johnson,App
+LG Q51,Good for basic tasks but not suitable for heavy use.,audio_files/LG Q51.mp3,2,2024-09-25,Sarah Davis,Online
+LG Velvet 2,Nice design but average performance.,audio_files/LG Velvet 2.mp3,2,2024-09-30,Nora White,In-store
+LG V20 5G,Good overall performance but feels a bit bulky.,audio_files/LG V20 5G.mp3,4,2024-10-01,Kevin Thomas,App
+LG G7 One,Good phone but outdated now.,audio_files/LG G7 One.mp3,3,2024-10-05,John Doe,Online
+LG Q60 Dual,Affordable but basic features.,audio_files/LG Q60 Dual.mp3,3,2024-10-10,Karen White,In-store
+LG Stylo 3 Plus,Stylus feature is nice but feels outdated.,audio_files/LG Stylo 3 Plus.mp3,3,2024-10-15,Michael Johnson,App
+LG K30 Plus,Good for casual use but performance is limited.,audio_files/LG K30 Plus.mp3,3,2024-10-20,Alice Lee,In-store
+LG V35 ThinQ,Great camera but performance is lacking.,audio_files/LG V35 ThinQ.mp3,2,2024-10-25,Nora Brown,App
+LG Q4,Basic phone that does its job.,audio_files/LG Q4.mp3,3,2024-10-30,Kevin Thomas,Online
+LG G6+,Great camera but battery life is just average.,audio_files/LG G6+.mp3,2,2024-11-01,John Doe,In-store
+LG X power,Good for basic tasks but not for heavy users.,audio_files/LG X power.mp3,3,2024-11-05,Karen White,App
+LG G7+,Solid performance but battery life could be better.,audio_files/LG G7+.mp3,4,2024-11-10,Michael Johnson,Online
+LG Stylo 4+,"Affordable and reliable, but lacks advanced features.",audio_files/LG Stylo 4+.mp3,2,2024-11-15,Alice Johnson,In-store
+LG K9,Basic phone suitable for light users.,audio_files/LG K9.mp3,3,2024-11-20,Nora White,App
+LG Velvet 5G (2019),Stylish design with decent performance but camera needs improvement.,audio_files/LG Velvet 5G (2019).mp3,3,2024-11-25,Kevin Thomas,Online
+Nokia G50,Great budget smartphone with good performance.,audio_files/Nokia G50.mp3,4,2024-01-01,John Doe,Online
+Nokia X20,Excellent camera quality and solid performance.,audio_files/Nokia X20.mp3,3,2024-01-05,Jane Smith,In-store
+Nokia 8.30 5G,Fantastic features for the price but a bit bulky.,audio_files/Nokia 8.30 5G.mp3,4,2024-01-10,Emily Johnson,Online
+Nokia 7.2,Good mid-range option but battery life could be better.,audio_files/Nokia 7.2.mp3,3,2024-01-15,Michael Brown,App
+Nokia 6.2,Decent performance but feels outdated.,audio_files/Nokia 6.2.mp3,3,2024-01-20,Sarah Davis,In-store
+Nokia 5.4,Affordable with a good camera but performance is average.,audio_files/Nokia 5.4.mp3,2,2024-01-25,David Wilson,Online
+Nokia 3.4,Basic features but handles calls and texts well.,audio_files/Nokia 3.4.mp3,4,2024-01-30,Linda Martinez,App
+Nokia 1.4,Very basic but great for light users.,audio_files/Nokia 1.4.mp3,4,2024-02-02,Chris Garcia,Online
+Nokia 2.4,Good entry-level phone but lacks advanced features.,audio_files/Nokia 2.4.mp3,2,2024-02-05,Alice Lee,In-store
+Nokia XR20,Durable phone with decent performance but heavy.,audio_files/Nokia XR20.mp3,3,2024-02-10,Kevin Thomas,Online
+Nokia G10,Good battery life but basic performance.,audio_files/Nokia G10.mp3,4,2024-02-15,Nora White,In-store
+Nokia 8.1,Good design and camera but outdated now.,audio_files/Nokia 8.1.mp3,3,2024-02-20,Joshua Harris,App
+Nokia 4.20,Stylish design but lacks premium features.,audio_files/Nokia 4.20.mp3,3,2024-02-25,Amy Davis,Online
+Nokia 7.1,Great display and design but battery life is average.,audio_files/Nokia 7.1.mp3,2,2024-03-01,Michael Johnson,In-store
+Nokia C20,Basic smartphone suitable for light use.,audio_files/Nokia C20.mp3,4,2024-03-05,Jessica Wilson,App
+Nokia 1 Plus,Budget-friendly but limited performance.,audio_files/Nokia 1 Plus.mp3,3,2024-03-10,James Taylor,Online
+Nokia 2.3,Good for basic tasks but not suitable for heavy use.,audio_files/Nokia 2.3.mp3,3,2024-03-15,Emily White,In-store
+Nokia 3.2,Good display but battery drains quickly.,audio_files/Nokia 3.2.mp3,2,2024-03-20,Chris Brown,App
+Nokia 5.3,Good camera for the price but average performance.,audio_files/Nokia 5.3.mp3,3,2024-03-25,Linda Green,Online
+Nokia 6.1,Good overall performance but feels outdated.,audio_files/Nokia 6.1.mp3,3,2024-03-30,Robert Harris,In-store
+Nokia 8.3,Great features and camera but pricey.,audio_files/Nokia 8.3.mp3,4,2024-04-01,Alice Davis,App
+Nokia C30,Affordable and reliable but lacks advanced features.,audio_files/Nokia C30.mp3,2,2024-04-05,John White,Online
+Nokia G20,Good performance but feels a bit heavy.,audio_files/Nokia G20.mp3,3,2024-04-10,Karen White,In-store
+Nokia 2.2,Basic smartphone suitable for casual use.,audio_files/Nokia 2.2.mp3,4,2024-04-15,Sarah Davis,App
+Nokia 7 Plus,Excellent camera quality but battery life is average.,audio_files/Nokia 7 Plus.mp3,2,2024-04-20,Jessica Martin,Online
+Nokia 6.1 Plus,Good design and performance but feels outdated.,audio_files/Nokia 6.1 Plus.mp3,3,2024-04-25,Kevin Thomas,In-store
+Nokia 4.2,Decent performance but lacks some features.,audio_files/Nokia 4.2.mp3,2,2024-04-30,Nora White,App
+Nokia 3.1,Good entry-level phone but lacks modern features.,audio_files/Nokia 3.1.mp3,3,2024-05-01,Michael Johnson,Online
+Nokia 2.1,Basic features but handles calls and texts well.,audio_files/Nokia 2.1.mp3,4,2024-05-05,Alice Johnson,In-store
+Nokia C1,Good for casual use but not suitable for heavy tasks.,audio_files/Nokia C1.mp3,3,2024-05-10,Kevin Thomas,App
+Nokia 7.2 5G,Good overall performance but feels a bit heavy.,audio_files/Nokia 7.2 5G.mp3,3,2024-05-15,Sarah Davis,Online
+Nokia 5.1,Affordable but lacks some features.,audio_files/Nokia 5.1.mp3,3,2024-05-20,Jessica Wilson,In-store
+Nokia 9 PureView,Fantastic camera but heavy and bulky.,audio_files/Nokia 9 PureView.mp3,3,2024-05-25,John Doe,App
+Nokia 8.1 Plus,Good performance for the price but outdated.,audio_files/Nokia 8.1 Plus.mp3,4,2024-05-30,Karen White,Online
+Nokia 3.2 Plus,Good display but performance is average.,audio_files/Nokia 3.2 Plus.mp3,2,2024-06-01,Michael Johnson,In-store
+Nokia 2.4 Plus,Basic smartphone suitable for light use.,audio_files/Nokia 2.4 Plus.mp3,4,2024-06-05,Alice Johnson,App
+Nokia 6.2 Plus,Good performance but feels outdated.,audio_files/Nokia 6.2 Plus.mp3,3,2024-06-10,Kevin Thomas,Online
+Nokia 7 Plus 5G,Excellent camera quality but battery drains quickly.,audio_files/Nokia 7 Plus 5G.mp3,2,2024-06-15,Nora Brown,In-store
+Nokia G50 5G,Good battery life and performance for the price.,audio_files/Nokia G50 5G.mp3,4,2024-06-20,Jessica Wilson,App
+Nokia 8 Sirocco,Great design but outdated performance.,audio_files/Nokia 8 Sirocco.mp3,3,2024-06-25,John Doe,Online
+Nokia 5.4 2018,Good camera but lacks modern features.,audio_files/Nokia 5.4 2018.mp3,2,2024-06-30,Karen White,In-store
+Nokia 2.3 (2015),Affordable but basic features.,audio_files/Nokia 2.3 (2015).mp3,3,2024-07-01,Michael Johnson,App
+Nokia 1.3,Basic phone but does its job for calls and texts.,audio_files/Nokia 1.3.mp3,3,2024-07-05,Alice Johnson,Online
+Nokia 8.2,Stylish design but limited features.,audio_files/Nokia 8.2.mp3,3,2024-07-10,Kevin Thomas,In-store
+Nokia 9.1,Good camera but performance is average.,audio_files/Nokia 9.1.mp3,2,2024-07-15,Nora White,App
+Nokia 6.2 (2015),Good value for money but lacks some features.,audio_files/Nokia 6.2 (2015).mp3,2,2024-07-20,Jessica Wilson,Online
+Nokia G20 5G,Good performance but feels a bit heavy.,audio_files/Nokia G20 5G.mp3,3,2024-07-25,John Doe,In-store
+Nokia 7.3,Great camera but outdated software.,audio_files/Nokia 7.3.mp3,4,2024-07-30,Karen White,App
+Nokia 5.1 (2016),Basic features but decent for everyday tasks.,audio_files/Nokia 5.1 (2016).mp3,2,2024-08-01,Michael Johnson,Online
+Nokia 3.4 2014,Decent performance but not suitable for heavy use.,audio_files/Nokia 3.4 2014.mp3,4,2024-08-05,Alice Johnson,In-store
+Nokia 8.3 5G,Excellent performance but heavy and bulky.,audio_files/Nokia 8.3 5G.mp3,5,2024-08-10,Kevin Thomas,App
+Nokia X20 5G,Good camera but performance is average.,audio_files/Nokia X20 5G.mp3,3,2024-08-15,Nora Brown,Online
+Nokia 9 PureView 5G,Good camera but very heavy.,audio_files/Nokia 9 PureView 5G.mp3,3,2024-08-20,Jessica Wilson,In-store
+Nokia C30 4G,Affordable but lacks advanced features.,audio_files/Nokia C30 4G.mp3,2,2024-08-25,John Doe,App
+Nokia 5.4 (2018),Great phone but battery life could be better.,audio_files/Nokia 5.4 (2018).mp3,2,2024-08-30,Karen White,Online
+Nokia G11,Good performance but outdated software.,audio_files/Nokia G11.mp3,3,2024-09-01,Michael Johnson,In-store
+Nokia 6.3,Decent phone but feels a bit outdated.,audio_files/Nokia 6.3.mp3,2,2024-09-05,Alice Johnson,App
+Nokia 1.4 4G,Basic features but decent for everyday tasks.,audio_files/Nokia 1.4 4G.mp3,4,2024-09-10,Kevin Thomas,Online
+Nokia 2.4 4G,Affordable but limited features.,audio_files/Nokia 2.4 4G.mp3,3,2024-09-15,Nora White,In-store
+Nokia 5.1 Plus,Good for basic tasks but performance is limited.,audio_files/Nokia 5.1 Plus.mp3,3,2024-09-20,Jessica Wilson,App
+Nokia 8.2 5G,Good features for the price but feels outdated.,audio_files/Nokia 8.2 5G.mp3,3,2024-09-25,John Doe,Online
+Nokia 7.4,Good value for money but lacks some features.,audio_files/Nokia 7.4.mp3,2,2024-09-30,Karen White,In-store
+Nokia X10,Great design but battery life is average.,audio_files/Nokia X10.mp3,2,2024-10-01,Michael Johnson,App
+Nokia 8.3 5G (2018),Excellent performance but bulky design.,audio_files/Nokia 8.3 5G (2018).mp3,4,2024-10-05,Alice Johnson,Online
+Nokia 6.4,Good design but lacks modern features.,audio_files/Nokia 6.4.mp3,2,2024-10-10,Kevin Thomas,In-store
+Nokia 3.4 (2014),Basic features but decent for everyday tasks.,audio_files/Nokia 3.4 (2014).mp3,4,2024-10-15,Nora Brown,App
+Nokia 4.2 4G,Good overall but performance is average.,audio_files/Nokia 4.2 4G.mp3,2,2024-10-20,Jessica Wilson,Online
+Nokia C20 5G,Basic smartphone suitable for casual use.,audio_files/Nokia C20 5G.mp3,4,2024-10-25,John Doe,In-store
+Nokia 1.3 4G,Affordable but very basic for heavy use.,audio_files/Nokia 1.3 4G.mp3,3,2024-10-30,Karen White,App
+Asus Zenfone 9,"Compact design with great performance, but battery life is average.",audio_files/Asus Zenfone 9.mp3,4,2024-01-01,John Doe,Online
+Asus ROG Phone 6,"Excellent for gaming with top-notch specs, but very bulky.",audio_files/Asus ROG Phone 6.mp3,5,2024-01-05,Jane Smith,In-store
+Asus Zenfone 8,"Great camera and performance, but a bit expensive.",audio_files/Asus Zenfone 8.mp3,4,2024-01-10,Emily Johnson,Online
+Asus ROG Phone 5,Outstanding gaming experience but lacks good camera features.,audio_files/Asus ROG Phone 5.mp3,2,2024-01-15,Michael Brown,App
+Asus Zenfone 7,Good overall performance but feels heavy.,audio_files/Asus Zenfone 7.mp3,4,2024-01-20,Sarah Davis,In-store
+Asus ROG Phone 3,Great for gaming but battery life could be better.,audio_files/Asus ROG Phone 3.mp3,4,2024-01-25,David Wilson,Online
+Asus Zenfone Max Pro M2,Budget-friendly but performance is average.,audio_files/Asus Zenfone Max Pro M2.mp3,3,2024-01-30,Linda Martinez,App
+Asus Zenfone 6,Good performance and features but lacks modern updates.,audio_files/Asus Zenfone 6.mp3,3,2024-02-02,Chris Garcia,Online
+Asus Zenfone 8 Flip,Unique flip camera design but feels a bit bulky.,audio_files/Asus Zenfone 8 Flip.mp3,2,2024-02-05,Alice Lee,In-store
+Asus ROG Phone 2,"Great performance for gaming, but quite heavy.",audio_files/Asus ROG Phone 2.mp3,4,2024-02-10,Kevin Thomas,Online
+Asus Zenfone Max M2,Decent performance for everyday tasks but not for heavy usage.,audio_files/Asus Zenfone Max M2.mp3,3,2024-02-15,Nora White,In-store
+Asus Zenfone 7 Pro,Excellent camera but quite large.,audio_files/Asus Zenfone 7 Pro.mp3,4,2024-02-20,Joshua Harris,App
+Asus ROG Phone 6D,"Ultimate gaming experience, but very bulky.",audio_files/Asus ROG Phone 6D.mp3,5,2024-02-25,Amy Davis,Online
+Asus Zenfone 5Z,Good performance and camera but feels outdated now.,audio_files/Asus Zenfone 5Z.mp3,3,2024-03-01,Michael Johnson,In-store
+Asus Zenfone 6Z,"Stylish design with decent performance, but camera could be better.",audio_files/Asus Zenfone 6Z.mp3,3,2024-03-05,Jessica Wilson,App
+Asus ROG Phone 3 Strix,Great for gaming but software needs improvement.,audio_files/Asus ROG Phone 3 Strix.mp3,4,2024-03-10,James Taylor,Online
+Asus Zenfone Max M1,Basic features but suitable for light users.,audio_files/Asus Zenfone Max M1.mp3,4,2024-03-15,Emily White,In-store
+Asus Zenfone 8 Flip 5G,Great camera features but battery drains quickly.,audio_files/Asus Zenfone 8 Flip 5G.mp3,3,2024-03-20,Chris Brown,App
+Asus ROG Phone 5 Ultimate,High performance but very heavy.,audio_files/Asus ROG Phone 5 Ultimate.mp3,3,2024-03-25,Linda Green,Online
+Asus Zenfone 7Z,Decent performance but feels outdated.,audio_files/Asus Zenfone 7Z.mp3,2,2024-03-30,Robert Harris,In-store
+Asus Zenfone 3,Good for basic tasks but limited features.,audio_files/Asus Zenfone 3.mp3,4,2024-04-01,Alice Davis,App
+Asus ROG Phone 5s,"Top-tier gaming phone, but a bit pricey.",audio_files/Asus ROG Phone 5s.mp3,3,2024-04-05,John White,Online
+Asus Zenfone 4,Still decent for casual use but feels outdated.,audio_files/Asus Zenfone 4.mp3,3,2024-04-10,Karen White,In-store
+Asus Zenfone 7 Pro 5G,"Great performance and features, but camera software could improve.",audio_files/Asus Zenfone 7 Pro 5G.mp3,4,2024-04-15,Sarah Davis,App
+Asus Zenfone 6 5G,Solid mid-range phone but feels a bit heavy.,audio_files/Asus Zenfone 6 5G.mp3,3,2024-04-20,Jessica Martin,Online
+Asus ROG Phone 2 Strix,"Great performance for gaming, but battery life is average.",audio_files/Asus ROG Phone 2 Strix.mp3,2,2024-04-25,Kevin Thomas,In-store
+Asus Zenfone 5,"Good for basic use, but lacks premium features.",audio_files/Asus Zenfone 5.mp3,3,2024-04-30,Nora Brown,App
+Asus ROG Phone 4,Excellent for gaming but very bulky.,audio_files/Asus ROG Phone 4.mp3,3,2024-05-01,Michael Johnson,Online
+Asus Zenfone 3 Max,"Good battery life, but performance is average.",audio_files/Asus Zenfone 3 Max.mp3,2,2024-05-05,Alice Johnson,In-store
+Asus ROG Phone 5 Pro,Ultimate gaming experience but heavy.,audio_files/Asus ROG Phone 5 Pro.mp3,5,2024-05-10,Kevin Thomas,App
+Asus Zenfone 8 Pro,Compact size with great features but feels a bit heavy.,audio_files/Asus Zenfone 8 Pro.mp3,3,2024-05-15,Nora White,Online
+Asus Zenfone 7 Lite,"Good performance for the price, but not for heavy multitasking.",audio_files/Asus Zenfone 7 Lite.mp3,4,2024-05-20,Jessica Wilson,In-store
+Asus ROG Phone 6E,Outstanding performance for gaming but very bulky.,audio_files/Asus ROG Phone 6E.mp3,5,2024-05-25,John Doe,App
+Asus Zenfone 8 Lite,Good for selfies but performance is average.,audio_files/Asus Zenfone 8 Lite.mp3,2,2024-05-30,Karen White,Online
+Asus Zenfone 4 Max,Basic features but handles calls and texts well.,audio_files/Asus Zenfone 4 Max.mp3,4,2024-06-01,Sarah Davis,In-store
+Asus Zenfone 6Z 5G,Decent performance but lacks some premium features.,audio_files/Asus Zenfone 6Z 5G.mp3,3,2024-06-05,Michael Johnson,App
+Asus ROG Phone 5S Pro,"Great for gaming, but software could be improved.",audio_files/Asus ROG Phone 5S Pro.mp3,4,2024-06-10,Alice Johnson,Online
+Asus Zenfone 5 Lite,Good budget option but limited features.,audio_files/Asus Zenfone 5 Lite.mp3,4,2024-06-15,Kevin Thomas,In-store
+Asus ROG Phone 6 Strix,"Top performance for gamers, but heavy.",audio_files/Asus ROG Phone 6 Strix.mp3,5,2024-06-20,Nora White,App
+Asus Zenfone 7 Max,Good for everyday tasks but lacks modern updates.,audio_files/Asus Zenfone 7 Max.mp3,3,2024-06-25,Jessica Wilson,Online
+Asus ROG Phone 4 Ultimate,Excellent for gaming but feels bulky.,audio_files/Asus ROG Phone 4 Ultimate.mp3,3,2024-06-30,John Doe,In-store
+Asus Zenfone 8 5G,Great camera features but battery life could be better.,audio_files/Asus Zenfone 8 5G.mp3,4,2024-07-01,Karen White,App
+Asus ROG Phone 5S 5G,Good performance for gaming but very heavy.,audio_files/Asus ROG Phone 5S 5G.mp3,3,2024-07-05,Sarah Davis,Online
+Asus Zenfone 8 Max,Solid performance but not suitable for heavy tasks.,audio_files/Asus Zenfone 8 Max.mp3,2,2024-07-10,Michael Johnson,In-store
+Asus ROG Phone 6 Pro,Exceptional performance for gaming but heavy.,audio_files/Asus ROG Phone 6 Pro.mp3,5,2024-07-15,Alice Johnson,App
+Asus Zenfone 3 Laser,Basic phone but decent for everyday tasks.,audio_files/Asus Zenfone 3 Laser.mp3,4,2024-07-20,Kevin Thomas,Online
+Asus Zenfone 6 Pro,Good overall performance but feels a bit heavy.,audio_files/Asus Zenfone 6 Pro.mp3,3,2024-07-25,Nora White,In-store
+Asus ROG Phone 5 Ultimate 5G,Great for gaming but feels a bit heavy.,audio_files/Asus ROG Phone 5 Ultimate 5G.mp3,3,2024-07-30,Jessica Wilson,App
+Asus Zenfone 9 5G,Compact design with great specs but battery life could be better.,audio_files/Asus Zenfone 9 5G.mp3,4,2024-08-01,John Doe,Online
+Asus Zenfone 4 Selfie,Good camera but performance is average.,audio_files/Asus Zenfone 4 Selfie.mp3,2,2024-08-05,Karen White,In-store
+Asus ROG Phone 6D Ultimate,Excellent for gaming but bulky design.,audio_files/Asus ROG Phone 6D Ultimate.mp3,3,2024-08-10,Sarah Davis,App
+Asus Zenfone 7C,Good for casual use but feels outdated.,audio_files/Asus Zenfone 7C.mp3,3,2024-08-15,Michael Johnson,Online
+Asus ROG Phone 5 Special Edition,Great for gaming but feels heavy.,audio_files/Asus ROG Phone 5 Special Edition.mp3,3,2024-08-20,Alice Johnson,In-store
+Asus Zenfone 5Q,Decent performance but camera could be better.,audio_files/Asus Zenfone 5Q.mp3,3,2024-08-25,Kevin Thomas,App
+Asus ROG Phone 4S,Excellent gaming experience but heavy.,audio_files/Asus ROG Phone 4S.mp3,5,2024-08-30,Nora White,Online
+Asus Zenfone 8 Pro Max,Stylish design but battery drains quickly.,audio_files/Asus Zenfone 8 Pro Max.mp3,2,2024-09-01,Jessica Wilson,In-store
+Asus ROG Phone 3D,Great gaming phone but very bulky.,audio_files/Asus ROG Phone 3D.mp3,5,2024-09-05,John Doe,App
+Asus Zenfone 5.5,Good features for the price but not for heavy users.,audio_files/Asus Zenfone 5.5.mp3,4,2024-09-10,Karen White,Online
+Asus Zenfone 8 Max Pro,Excellent camera but feels heavy.,audio_files/Asus Zenfone 8 Max Pro.mp3,3,2024-09-15,Sarah Davis,In-store
+Asus ROG Phone 4 Max,Great for gaming but lacks good camera features.,audio_files/Asus ROG Phone 4 Max.mp3,2,2024-09-20,Michael Johnson,App
+Asus Zenfone 9 5G Pro,Good performance for the price but feels heavy.,audio_files/Asus Zenfone 9 5G Pro.mp3,4,2024-09-25,Alice Johnson,Online
+Asus Zenfone 5.0,Basic performance suitable for light users.,audio_files/Asus Zenfone 5.0.mp3,4,2024-09-30,Kevin Thomas,In-store
+Asus ROG Phone 3 Lite,Great for gaming but lacks camera features.,audio_files/Asus ROG Phone 3 Lite.mp3,2,2024-10-01,Nora White,App
+Asus Zenfone 6 Ultra,Good overall performance but feels heavy.,audio_files/Asus Zenfone 6 Ultra.mp3,4,2024-10-05,Jessica Wilson,Online
+Asus ROG Phone 5 5G,Excellent for gaming but battery life is average.,audio_files/Asus ROG Phone 5 5G.mp3,2,2024-10-10,John Doe,In-store
+Asus Zenfone 8 5G (2018),Stylish design and great performance but feels a bit bulky.,audio_files/Asus Zenfone 8 5G (2018).mp3,4,2024-10-15,Karen White,App
+Asus ROG Phone 4 5G,Top performance for gaming but heavy.,audio_files/Asus ROG Phone 4 5G.mp3,5,2024-10-20,Sarah Davis,Online
+Lenovo Legion Phone Duel 2,"Amazing gaming performance and cooling, but bulky design.",audio_files/Lenovo Legion Phone Duel 2.mp3,5,2024-01-01,John Doe,Online
+Lenovo K12 Pro,"Good battery life, but camera performance is average.",audio_files/Lenovo K12 Pro.mp3,2,2024-01-05,Jane Smith,In-store
+Lenovo Z6 Pro,"Excellent camera and performance, but software is outdated.",audio_files/Lenovo Z6 Pro.mp3,3,2024-01-10,Emily Johnson,Online
+Lenovo Vibe K5,"Basic phone suitable for everyday use, but lacks features.",audio_files/Lenovo Vibe K5.mp3,3,2024-01-15,Michael Brown,App
+Lenovo Moto G Power (2022),"Great battery life, but camera quality could be better.",audio_files/Lenovo Moto G Power (2022).mp3,4,2024-01-20,Sarah Davis,In-store
+Lenovo Moto G Stylus (2022),"Good performance with stylus functionality, but feels bulky.",audio_files/Lenovo Moto G Stylus (2022).mp3,4,2024-01-25,David Wilson,Online
+Lenovo Legion Phone 3,Exceptional gaming experience with fast performance.,audio_files/Lenovo Legion Phone 3.mp3,5,2024-01-30,Linda Martinez,App
+Lenovo Z5,"Good design, but performance is lacking for heavy users.",audio_files/Lenovo Z5.mp3,2,2024-02-02,Chris Garcia,Online
+Lenovo Moto E (2022),"Affordable entry-level phone, but very basic.",audio_files/Lenovo Moto E (2022).mp3,3,2024-02-05,Alice Lee,In-store
+Lenovo Vibe K6,"Decent phone with good performance, but camera is average.",audio_files/Lenovo Vibe K6.mp3,3,2024-02-10,Kevin Thomas,Online
+Lenovo P2,"Fantastic battery life, but heavy and outdated design.",audio_files/Lenovo P2.mp3,3,2024-02-15,Nora White,In-store
+Lenovo Moto Edge 20,"Great display and camera quality, but price is high.",audio_files/Lenovo Moto Edge 20.mp3,4,2024-02-20,Joshua Harris,App
+Lenovo Legion Phone Duel 1,"Not okay only games work properly, its the worst its shit.",audio_files/Lenovo Legion Phone Duel 1.mp3,3,2024-01-01,John Doe,Online
+Lenovo Legion Phone Duel 2 (2022),"Its okay but, its also complete dog shit crazy its also bad.",audio_files/Lenovo Legion Phone Duel 2 (2022).mp3,3,2024-01-01,John Doe,Online
